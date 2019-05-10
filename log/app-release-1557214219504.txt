@@ -1,0 +1,23 @@
+ARGS@@@ { _:
+   [ 'accountServer:host:cn.api.ha.mxchip.com',
+     'accountServer:port:443',
+     'accountServer:type:default',
+     'app:name:zh:智家精灵',
+     'app:name:en:Smart Plus',
+     'app:appKey:iOS:24980352',
+     'app:appKey:Android:24979783',
+     'app:layout:{mainColor:rgb(0, 197, 249)}',
+     'app:environment:cn',
+     'app:securityImagePath:http://build-download.nostackdeveloper.com/SmartPlusCN_201947135953_securityImage.zip',
+     'app:backgroundImageURL:http://build-download.nostackdeveloper.com/SmartPlusBackground_2019471405_background.zip',
+     'app:logoImageURL:http://build-download.nostackdeveloper.com/SmartPlus_201947135948_logo.zip',
+     'app:bundleId:com.mxchip.bta',
+     'app:userLog:true',
+     'app:pgyer:true',
+     'app:log:true',
+     'app:global:false',
+     'app:amapKey:8abb758c0da75e3a55805cf38bf383b7' ],
+  key: 'cn',
+  config: 'accountServer:protocol:https',
+  '$0': '../Business-Template-APP/tool/environment/package' } cn "accountServer:protocol:https"
+

@@ -1,0 +1,5 @@
+:rn-fetch-blob:verifyReleaseResources UP-TO-DATE
+:rn-fetch-blob:assembleRelease UP-TO-DATE
+
+BUILD SUCCESSFUL in 1m 45s
+556 actionable tasks: 1 executed, 555 up-to-date

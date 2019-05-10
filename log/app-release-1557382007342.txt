@@ -1,0 +1,628 @@
+
+> BusinessTemplateAPP@1.0.0 android-release /Users/changyh/Fogcloud/SmartPlus/Business-Template-APP
+> cd ./android && ./gradlew assembleRelease
+
+
+Starting a Gradle Daemon (subsequent builds will be faster)
+
+
+WARNING: The option 'android.enableAapt2' is deprecated and should not be used anymore.
+
+Use 'android.enableAapt2=true' to remove this warning.
+It will be removed at the end of 2018..
+
+WARNING: Configuration 'compile' is obsolete and has been replaced with 'implementation' and 'api'.
+
+It will be removed at the end of 2018. For more information see: http://d.android.com/r/tools/update-dependency-configurations.html
+
+WARNING: The option 'android.enableAapt2' is deprecated and should not be used anymore.
+
+Use 'android.enableAapt2=true' to remove this warning.
+
+It will be removed at the end of 2018..
+
+
+WARNING: The option 'android.enableAapt2' is deprecated and should not be used anymore.
+Use 'android.enableAapt2=true' to remove this warning.
+
+It will be removed at the end of 2018..
+
+WARNING: The option 'android.enableAapt2' is deprecated and should not be used anymore.
+Use 'android.enableAapt2=true' to remove this warning.
+It will be removed at the end of 2018..
+
+WARNING: Configuration 'compile' is obsolete and has been replaced with 'implementation' and 'api'.
+
+It will be removed at the end of 2018. For more information see: http://d.android.com/r/tools/update-dependency-configurations.html
+
+WARNING: The option 'android.enableAapt2' is deprecated and should not be used anymore.
+
+Use 'android.enableAapt2=true' to remove this warning.
+It will be removed at the end of 2018..
+
+WARNING: Configuration 'compile' is obsolete and has been replaced with 'implementation' and 'api'.
+
+It will be removed at the end of 2018. For more information see: http://d.android.com/r/tools/update-dependency-configurations.html
+
+WARNING: The option 'android.enableAapt2' is deprecated and should not be used anymore.
+
+Use 'android.enableAapt2=true' to remove this warning.
+It will be removed at the end of 2018..
+
+WARNING: The option 'android.enableAapt2' is deprecated and should not be used anymore.
+
+Use 'android.enableAapt2=true' to remove this warning.
+It will be removed at the end of 2018..
+
+WARNING: Configuration 'compile' is obsolete and has been replaced with 'implementation' and 'api'.
+
+It will be removed at the end of 2018. For more information see: http://d.android.com/r/tools/update-dependency-configurations.html
+
+WARNING: The option 'android.enableAapt2' is deprecated and should not be used anymore.
+Use 'android.enableAapt2=true' to remove this warning.
+It will be removed at the end of 2018..
+
+WARNING: Configuration 'compile' is obsolete and has been replaced with 'implementation' and 'api'.
+It will be removed at the end of 2018. For more information see: http://d.android.com/r/tools/update-dependency-configurations.html
+
+WARNING: The option 'android.enableAapt2' is deprecated and should not be used anymore.
+
+Use 'android.enableAapt2=true' to remove this warning.
+It will be removed at the end of 2018..
+
+WARNING: Configuration 'compile' is obsolete and has been replaced with 'implementation' and 'api'.
+
+It will be removed at the end of 2018. For more information see: http://d.android.com/r/tools/update-dependency-configurations.html
+
+WARNING: The option 'android.enableAapt2' is deprecated and should not be used anymore.
+
+Use 'android.enableAapt2=true' to remove this warning.
+It will be removed at the end of 2018..
+
+WARNING: Configuration 'compile' is obsolete and has been replaced with 'implementation' and 'api'.
+
+It will be removed at the end of 2018. For more information see: http://d.android.com/r/tools/update-dependency-configurations.html
+
+WARNING: The option 'android.enableAapt2' is deprecated and should not be used anymore.
+
+Use 'android.enableAapt2=true' to remove this warning.
+It will be removed at the end of 2018..
+
+WARNING: Configuration 'compile' is obsolete and has been replaced with 'implementation' and 'api'.
+
+It will be removed at the end of 2018. For more information see: http://d.android.com/r/tools/update-dependency-configurations.html
+
+WARNING: The option 'android.enableAapt2' is deprecated and should not be used anymore.
+
+Use 'android.enableAapt2=true' to remove this warning.
+It will be removed at the end of 2018..
+
+WARNING: Configuration 'compile' is obsolete and has been replaced with 'implementation' and 'api'.
+
+It will be removed at the end of 2018. For more information see: http://d.android.com/r/tools/update-dependency-configurations.html
+
+WARNING: The option 'android.enableAapt2' is deprecated and should not be used anymore.
+
+Use 'android.enableAapt2=true' to remove this warning.
+It will be removed at the end of 2018..
+
+WARNING: Configuration 'compile' is obsolete and has been replaced with 'implementation' and 'api'.
+
+It will be removed at the end of 2018. For more information see: http://d.android.com/r/tools/update-dependency-configurations.html
+
+WARNING: The option 'android.enableAapt2' is deprecated and should not be used anymore.
+
+Use 'android.enableAapt2=true' to remove this warning.
+It will be removed at the end of 2018..
+
+WARNING: Configuration 'compile' is obsolete and has been replaced with 'implementation' and 'api'.
+
+It will be removed at the end of 2018. For more information see: http://d.android.com/r/tools/update-dependency-configurations.html
+
+WARNING: The option 'android.enableAapt2' is deprecated and should not be used anymore.
+
+Use 'android.enableAapt2=true' to remove this warning.
+It will be removed at the end of 2018..
+
+WARNING: Configuration 'compile' is obsolete and has been replaced with 'implementation' and 'api'.
+
+It will be removed at the end of 2018. For more information see: http://d.android.com/r/tools/update-dependency-configurations.html
+
+WARNING: The option 'android.enableAapt2' is deprecated and should not be used anymore.
+
+Use 'android.enableAapt2=true' to remove this warning.
+It will be removed at the end of 2018..
+
+WARNING: The option 'android.enableAapt2' is deprecated and should not be used anymore.
+
+Use 'android.enableAapt2=true' to remove this warning.
+It will be removed at the end of 2018..
+
+WARNING: The option 'android.enableAapt2' is deprecated and should not be used anymore.
+
+Use 'android.enableAapt2=true' to remove this warning.
+It will be removed at the end of 2018..
+
+WARNING: Configuration 'compile' is obsolete and has been replaced with 'implementation' and 'api'.
+
+It will be removed at the end of 2018. For more information see: http://d.android.com/r/tools/update-dependency-configurations.html
+
+WARNING: The option 'android.enableAapt2' is deprecated and should not be used anymore.
+
+Use 'android.enableAapt2=true' to remove this warning.
+It will be removed at the end of 2018..
+
+WARNING: Configuration 'compile' is obsolete and has been replaced with 'implementation' and 'api'.
+
+It will be removed at the end of 2018. For more information see: http://d.android.com/r/tools/update-dependency-configurations.html
+
+WARNING: The option 'android.enableAapt2' is deprecated and should not be used anymore.
+
+Use 'android.enableAapt2=true' to remove this warning.
+It will be removed at the end of 2018..
+
+WARNING: Configuration 'compile' is obsolete and has been replaced with 'implementation' and 'api'.
+
+It will be removed at the end of 2018. For more information see: http://d.android.com/r/tools/update-dependency-configurations.html
+
+:app:preBuild
+ UP-TO-DATE
+
+:openalib:preBuild UP-TO-DATE
+:openalib:preReleaseBuild UP-TO-DATE
+:openalib:checkReleaseManifest
+ 
+UP-TO-DATE
+:openalib:processReleaseManifest
+ 
+UP-TO-DATE
+:react-native-camera:preBuild UP-TO-DATE
+
+:react-native-camera:preReleaseBuild
+ UP-TO-DATE
+:react-native-camera:checkReleaseManifest UP-TO-DATE
+:react-native-camera:processReleaseManifest
+ 
+UP-TO-DATE
+:react-native-device-info:preBuild UP-TO-DATE
+:react-native-device-info:preReleaseBuild 
+UP-TO-DATE
+:react-native-device-info:checkReleaseManifest UP-TO-DATE
+
+:react-native-device-info:processReleaseManifest
+ UP-TO-DATE
+:react-native-fs:preBuild UP-TO-DATE
+
+:react-native-fs:preReleaseBuild UP-TO-DATE
+
+:react-native-fs:checkReleaseManifest
+ UP-TO-DATE
+
+:react-native-fs:processReleaseManifest
+ 
+UP-TO-DATE
+:react-native-gesture-handler:preBuild UP-TO-DATE
+:react-native-gesture-handler:preReleaseBuild 
+UP-TO-DATE
+:react-native-gesture-handler:checkReleaseManifest
+ 
+UP-TO-DATE
+:react-native-gesture-handler:processReleaseManifest UP-TO-DATE
+
+:react-native-i18n:preBuild 
+UP-TO-DATE
+:react-native-i18n:preReleaseBuild UP-TO-DATE
+:react-native-i18n:checkReleaseManifest UP-TO-DATE
+:react-native-i18n:processReleaseManifest
+ 
+UP-TO-DATE
+:react-native-keep-awake:preBuild UP-TO-DATE
+:react-native-keep-awake:preReleaseBuild UP-TO-DATE
+
+:react-native-keep-awake:checkReleaseManifest UP-TO-DATE
+:react-native-keep-awake:processReleaseManifest
+ 
+UP-TO-DATE
+:react-native-linear-gradient:preBuild UP-TO-DATE
+:react-native-linear-gradient:preReleaseBuild UP-TO-DATE
+
+:react-native-linear-gradient:checkReleaseManifest UP-TO-DATE
+
+:react-native-linear-gradient:processReleaseManifest
+ UP-TO-DATE
+
+:react-native-linking-settings:preBuild
+ UP-TO-DATE
+:react-native-linking-settings:preReleaseBuild UP-TO-DATE
+:react-native-linking-settings:checkReleaseManifest UP-TO-DATE
+
+:react-native-linking-settings:processReleaseManifest
+ 
+UP-TO-DATE
+:react-native-network-info:preBuild UP-TO-DATE
+:react-native-network-info:preReleaseBuild UP-TO-DATE
+:react-native-network-info:checkReleaseManifest UP-TO-DATE
+:react-native-network-info:processReleaseManifest UP-TO-DATE
+
+:react-native-photo-view:preBuild UP-TO-DATE
+:react-native-photo-view:preReleaseBuild UP-TO-DATE
+
+:react-native-photo-view:checkReleaseManifest
+ UP-TO-DATE
+:react-native-photo-view:processReleaseManifest UP-TO-DATE
+:react-native-sqlite-storage:preBuild
+ UP-TO-DATE
+:react-native-sqlite-storage:preReleaseBuild UP-TO-DATE
+
+:react-native-sqlite-storage:checkReleaseManifest UP-TO-DATE
+:react-native-sqlite-storage:processReleaseManifest
+ 
+UP-TO-DATE
+:react-native-vector-icons:preBuild UP-TO-DATE
+:react-native-vector-icons:preReleaseBuild UP-TO-DATE
+
+:react-native-vector-icons:checkReleaseManifest UP-TO-DATE
+:react-native-vector-icons:processReleaseManifest
+ UP-TO-DATE
+:react-native-view-shot:preBuild UP-TO-DATE
+:react-native-view-shot:preReleaseBuild UP-TO-DATE
+
+:react-native-view-shot:checkReleaseManifest UP-TO-DATE
+:react-native-view-shot:processReleaseManifest
+ 
+UP-TO-DATE
+:react-native-wheel-picker:preBuild UP-TO-DATE
+:react-native-wheel-picker:preReleaseBuild UP-TO-DATE
+
+:react-native-wheel-picker:checkReleaseManifest UP-TO-DATE
+:react-native-wheel-picker:processReleaseManifest
+ UP-TO-DATE
+:react-native-zip-archive:preBuild UP-TO-DATE
+:react-native-zip-archive:preReleaseBuild UP-TO-DATE
+:react-native-zip-archive:checkReleaseManifest UP-TO-DATE
+:react-native-zip-archive:processReleaseManifest
+ UP-TO-DATE
+:rn-fetch-blob:preBuild 
+UP-TO-DATE
+:rn-fetch-blob:preReleaseBuild UP-TO-DATE
+:rn-fetch-blob:checkReleaseManifest UP-TO-DATE
+:rn-fetch-blob:processReleaseManifest
+ UP-TO-DATE
+:app:preReleaseBuild
+ UP-TO-DATE
+:openalib:compileReleaseAidl
+ 
+UP-TO-DATE
+:react-native-camera:compileReleaseAidl
+ 
+UP-TO-DATE
+:react-native-device-info:compileReleaseAidl
+ 
+UP-TO-DATE
+:react-native-fs:compileReleaseAidl
+ 
+UP-TO-DATE
+:react-native-gesture-handler:compileReleaseAidl
+ UP-TO-DATE
+:react-native-i18n:compileReleaseAidl
+ UP-TO-DATE
+
+:react-native-keep-awake:compileReleaseAidl
+ UP-TO-DATE
+:react-native-linear-gradient:compileReleaseAidl
+ 
+UP-TO-DATE
+
+:react-native-linking-settings:compileReleaseAidl
+ 
+UP-TO-DATE
+
+:react-native-network-info:compileReleaseAidl
+ 
+UP-TO-DATE
+:react-native-photo-view:compileReleaseAidl
+ 
+UP-TO-DATE
+:react-native-sqlite-storage:compileReleaseAidl
+ 
+UP-TO-DATE
+
+:react-native-vector-icons:compileReleaseAidl
+ 
+UP-TO-DATE
+
+
+:react-native-view-shot:compileReleaseAidl
+ UP-TO-DATE
+:react-native-wheel-picker:compileReleaseAidl
+ 
+UP-TO-DATE
+:react-native-zip-archive:compileReleaseAidl
+ UP-TO-DATE
+:rn-fetch-blob:compileReleaseAidl
+ UP-TO-DATE
+:app:compileReleaseAidl
+ UP-TO-DATE
+:openalib:packageReleaseRenderscript
+ NO-SOURCE
+:react-native-camera:packageReleaseRenderscript NO-SOURCE
+:react-native-device-info:packageReleaseRenderscript NO-SOURCE
+:react-native-fs:packageReleaseRenderscript NO-SOURCE
+:react-native-gesture-handler:packageReleaseRenderscript NO-SOURCE
+
+:react-native-i18n:packageReleaseRenderscript NO-SOURCE
+:react-native-keep-awake:packageReleaseRenderscript NO-SOURCE
+:react-native-linear-gradient:packageReleaseRenderscript NO-SOURCE
+:react-native-linking-settings:packageReleaseRenderscript NO-SOURCE
+:react-native-network-info:packageReleaseRenderscript NO-SOURCE
+
+:react-native-photo-view:packageReleaseRenderscript NO-SOURCE
+:react-native-sqlite-storage:packageReleaseRenderscript NO-SOURCE
+:react-native-vector-icons:packageReleaseRenderscript
+ NO-SOURCE
+
+:react-native-view-shot:packageReleaseRenderscript NO-SOURCE
+:react-native-wheel-picker:packageReleaseRenderscript NO-SOURCE
+:react-native-zip-archive:packageReleaseRenderscript NO-SOURCE
+:rn-fetch-blob:packageReleaseRenderscript NO-SOURCE
+:app:compileReleaseRenderscript
+ UP-TO-DATE
+
+:app:checkReleaseManifest UP-TO-DATE
+:app:generateReleaseBuildConfig
+ UP-TO-DATE
+:app:prepareLintJar UP-TO-DATE
+:app:mergeReleaseShaders 
+UP-TO-DATE
+:app:compileReleaseShaders UP-TO-DATE
+:app:generateReleaseAssets UP-TO-DATE
+:openalib:mergeReleaseShaders
+ UP-TO-DATE
+:openalib:compileReleaseShaders UP-TO-DATE
+:openalib:generateReleaseAssets UP-TO-DATE
+:openalib:packageReleaseAssets UP-TO-DATE
+:react-native-camera:mergeReleaseShaders UP-TO-DATE
+:react-native-camera:compileReleaseShaders
+ UP-TO-DATE
+:react-native-camera:generateReleaseAssets 
+UP-TO-DATE
+:react-native-camera:packageReleaseAssets UP-TO-DATE
+:react-native-device-info:mergeReleaseShaders UP-TO-DATE
+:react-native-device-info:compileReleaseShaders UP-TO-DATE
+:react-native-device-info:generateReleaseAssets UP-TO-DATE
+:react-native-device-info:packageReleaseAssets UP-TO-DATE
+:react-native-fs:mergeReleaseShaders
+ UP-TO-DATE
+
+:react-native-fs:compileReleaseShaders UP-TO-DATE
+:react-native-fs:generateReleaseAssets UP-TO-DATE
+:react-native-fs:packageReleaseAssets UP-TO-DATE
+:react-native-gesture-handler:mergeReleaseShaders UP-TO-DATE
+:react-native-gesture-handler:compileReleaseShaders
+ UP-TO-DATE
+
+:react-native-gesture-handler:generateReleaseAssets UP-TO-DATE
+:react-native-gesture-handler:packageReleaseAssets UP-TO-DATE
+:react-native-i18n:mergeReleaseShaders UP-TO-DATE
+:react-native-i18n:compileReleaseShaders UP-TO-DATE
+:react-native-i18n:generateReleaseAssets UP-TO-DATE
+:react-native-i18n:packageReleaseAssets
+ UP-TO-DATE
+:react-native-keep-awake:mergeReleaseShaders UP-TO-DATE
+:react-native-keep-awake:compileReleaseShaders UP-TO-DATE
+:react-native-keep-awake:generateReleaseAssets UP-TO-DATE
+:react-native-keep-awake:packageReleaseAssets
+ UP-TO-DATE
+:react-native-linear-gradient:mergeReleaseShaders
+ UP-TO-DATE
+:react-native-linear-gradient:compileReleaseShaders UP-TO-DATE
+:react-native-linear-gradient:generateReleaseAssets UP-TO-DATE
+:react-native-linear-gradient:packageReleaseAssets
+ UP-TO-DATE
+:react-native-linking-settings:mergeReleaseShaders UP-TO-DATE
+:react-native-linking-settings:compileReleaseShaders
+ UP-TO-DATE
+:react-native-linking-settings:generateReleaseAssets UP-TO-DATE
+:react-native-linking-settings:packageReleaseAssets UP-TO-DATE
+:react-native-network-info:mergeReleaseShaders UP-TO-DATE
+:react-native-network-info:compileReleaseShaders
+ UP-TO-DATE
+
+:react-native-network-info:generateReleaseAssets UP-TO-DATE
+:react-native-network-info:packageReleaseAssets UP-TO-DATE
+:react-native-photo-view:mergeReleaseShaders UP-TO-DATE
+:react-native-photo-view:compileReleaseShaders UP-TO-DATE
+:react-native-photo-view:generateReleaseAssets UP-TO-DATE
+:react-native-photo-view:packageReleaseAssets UP-TO-DATE
+:react-native-sqlite-storage:mergeReleaseShaders
+ UP-TO-DATE
+:react-native-sqlite-storage:compileReleaseShaders UP-TO-DATE
+:react-native-sqlite-storage:generateReleaseAssets UP-TO-DATE
+:react-native-sqlite-storage:packageReleaseAssets
+ UP-TO-DATE
+:react-native-vector-icons:mergeReleaseShaders UP-TO-DATE
+:react-native-vector-icons:compileReleaseShaders UP-TO-DATE
+:react-native-vector-icons:generateReleaseAssets UP-TO-DATE
+:react-native-vector-icons:packageReleaseAssets
+ UP-TO-DATE
+
+:react-native-view-shot:mergeReleaseShaders UP-TO-DATE
+:react-native-view-shot:compileReleaseShaders UP-TO-DATE
+:react-native-view-shot:generateReleaseAssets UP-TO-DATE
+:react-native-view-shot:packageReleaseAssets UP-TO-DATE
+:react-native-wheel-picker:mergeReleaseShaders UP-TO-DATE
+:react-native-wheel-picker:compileReleaseShaders
+ UP-TO-DATE
+:react-native-wheel-picker:generateReleaseAssets UP-TO-DATE
+:react-native-wheel-picker:packageReleaseAssets UP-TO-DATE
+:react-native-zip-archive:mergeReleaseShaders UP-TO-DATE
+:react-native-zip-archive:compileReleaseShaders UP-TO-DATE
+:react-native-zip-archive:generateReleaseAssets UP-TO-DATE
+:react-native-zip-archive:packageReleaseAssets UP-TO-DATE
+
+:rn-fetch-blob:mergeReleaseShaders UP-TO-DATE
+:rn-fetch-blob:compileReleaseShaders UP-TO-DATE
+
+:rn-fetch-blob:generateReleaseAssets UP-TO-DATE
+:rn-fetch-blob:packageReleaseAssets UP-TO-DATE
+:app:mergeReleaseAssets
+ UP-TO-DATE
+
+:app:generateReleaseResValues UP-TO-DATE
+:app:generateReleaseResources UP-TO-DATE
+:openalib:compileReleaseRenderscript
+ UP-TO-DATE
+:openalib:generateReleaseResValues
+ UP-TO-DATE
+:openalib:generateReleaseResources UP-TO-DATE
+:openalib:packageReleaseResources
+ UP-TO-DATE
+:react-native-camera:compileReleaseRenderscript
+ UP-TO-DATE
+:react-native-camera:generateReleaseResValues
+ UP-TO-DATE
+:react-native-camera:generateReleaseResources UP-TO-DATE
+
+:react-native-camera:packageReleaseResources
+ UP-TO-DATE
+:react-native-device-info:compileReleaseRenderscript
+ UP-TO-DATE
+:react-native-device-info:generateReleaseResValues UP-TO-DATE
+:react-native-device-info:generateReleaseResources UP-TO-DATE
+
+:react-native-device-info:packageReleaseResources UP-TO-DATE
+:react-native-fs:compileReleaseRenderscript UP-TO-DATE
+:react-native-fs:generateReleaseResValues UP-TO-DATE
+:react-native-fs:generateReleaseResources UP-TO-DATE
+:react-native-fs:packageReleaseResources
+ UP-TO-DATE
+:react-native-gesture-handler:compileReleaseRenderscript UP-TO-DATE
+:react-native-gesture-handler:generateReleaseResValues
+ UP-TO-DATE
+:react-native-gesture-handler:generateReleaseResources UP-TO-DATE
+:react-native-gesture-handler:packageReleaseResources UP-TO-DATE
+:react-native-i18n:compileReleaseRenderscript UP-TO-DATE
+:react-native-i18n:generateReleaseResValues
+ UP-TO-DATE
+:react-native-i18n:generateReleaseResources UP-TO-DATE
+:react-native-i18n:packageReleaseResources
+ UP-TO-DATE
+:react-native-keep-awake:compileReleaseRenderscript UP-TO-DATE
+:react-native-keep-awake:generateReleaseResValues UP-TO-DATE
+:react-native-keep-awake:generateReleaseResources UP-TO-DATE
+:react-native-keep-awake:packageReleaseResources
+ UP-TO-DATE
+
+:react-native-linear-gradient:compileReleaseRenderscript UP-TO-DATE
+:react-native-linear-gradient:generateReleaseResValues UP-TO-DATE
+:react-native-linear-gradient:generateReleaseResources
+ UP-TO-DATE
+:react-native-linear-gradient:packageReleaseResources
+ UP-TO-DATE
+:react-native-linking-settings:compileReleaseRenderscript
+ UP-TO-DATE
+:react-native-linking-settings:generateReleaseResValues UP-TO-DATE
+:react-native-linking-settings:generateReleaseResources UP-TO-DATE
+:react-native-linking-settings:packageReleaseResources
+ UP-TO-DATE
+
+:react-native-network-info:compileReleaseRenderscript UP-TO-DATE
+:react-native-network-info:generateReleaseResValues UP-TO-DATE
+:react-native-network-info:generateReleaseResources UP-TO-DATE
+:react-native-network-info:packageReleaseResources
+ UP-TO-DATE
+:react-native-photo-view:compileReleaseRenderscript
+ UP-TO-DATE
+:react-native-photo-view:generateReleaseResValues
+ UP-TO-DATE
+:react-native-photo-view:generateReleaseResources UP-TO-DATE
+:react-native-photo-view:packageReleaseResources UP-TO-DATE
+:react-native-sqlite-storage:compileReleaseRenderscript
+ UP-TO-DATE
+:react-native-sqlite-storage:generateReleaseResValues UP-TO-DATE
+:react-native-sqlite-storage:generateReleaseResources UP-TO-DATE
+:react-native-sqlite-storage:packageReleaseResources
+ UP-TO-DATE
+:react-native-vector-icons:compileReleaseRenderscript
+ UP-TO-DATE
+:react-native-vector-icons:generateReleaseResValues UP-TO-DATE
+:react-native-vector-icons:generateReleaseResources UP-TO-DATE
+
+:react-native-vector-icons:packageReleaseResources UP-TO-DATE
+
+:react-native-view-shot:compileReleaseRenderscript UP-TO-DATE
+:react-native-view-shot:generateReleaseResValues
+ UP-TO-DATE
+
+:react-native-view-shot:generateReleaseResources UP-TO-DATE
+:react-native-view-shot:packageReleaseResources UP-TO-DATE
+:react-native-wheel-picker:compileReleaseRenderscript
+ UP-TO-DATE
+:react-native-wheel-picker:generateReleaseResValues UP-TO-DATE
+:react-native-wheel-picker:generateReleaseResources UP-TO-DATE
+:react-native-wheel-picker:packageReleaseResources
+ UP-TO-DATE
+:react-native-zip-archive:compileReleaseRenderscript
+ UP-TO-DATE
+
+:react-native-zip-archive:generateReleaseResValues
+ UP-TO-DATE
+
+:react-native-zip-archive:generateReleaseResources UP-TO-DATE
+:react-native-zip-archive:packageReleaseResources
+ UP-TO-DATE
+:rn-fetch-blob:compileReleaseRenderscript
+ UP-TO-DATE
+
+:rn-fetch-blob:generateReleaseResValues UP-TO-DATE
+:rn-fetch-blob:generateReleaseResources UP-TO-DATE
+
+:rn-fetch-blob:packageReleaseResources UP-TO-DATE
+:app:mergeReleaseResources
+ UP-TO-DATE
+
+:app:bundleReleaseJsAndAssets
+ FAILED
+
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Failed to capture snapshot of input files for task ':app:bundleReleaseJsAndAssets' property '$1' during up-to-date check.
+> Could not read path '/Users/changyh/Fogcloud/SmartPlus/Business-Template-APP/app/images/colour/network_icon'.
+
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+BUILD FAILED in 23s
+
+165 actionable tasks: 1 executed, 164 up-to-date
+
+npm
+ ERR! code ELIFECYCLE
+
+npm
+ ERR! errno
+ 1
+
+npm
+ ERR!
+ BusinessTemplateAPP@1.0.0 android-release: `cd ./android && ./gradlew assembleRelease`
+npm 
+ERR! Exit status 1
+
+npm
+ ERR! 
+npm
+ ERR! Failed at the BusinessTemplateAPP@1.0.0 android-release script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+
+
+npm ERR! A complete log of this run can be found in:
+npm
+ ERR!     /Users/changyh/.npm/_logs/2019-05-09T06_07_12_284Z-debug.log
+

@@ -1,0 +1,5 @@
+ARGS@@@ { _: [ 'Object]' ],
+  key: 'cn',
+  config: '[object',
+  '$0': '../Business-Template-APP/tool/environment/package' } cn "[object"
+

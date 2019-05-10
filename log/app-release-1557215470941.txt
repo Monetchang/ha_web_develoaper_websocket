@@ -1,0 +1,11 @@
+[IntelliJ is searching for port] 
+Debugger listening on ws://127.0.0.1:53614/50b33674-cf74-4b2c-9364-5f28dc6e5098
+For help, see: https://nodejs.org/en/docs/inspector
+
+Debugger listening on ws://127.0.0.1:53614/efd44ceb-74f1-41fd-9b90-438a93bc9665
+For help, see: https://nodejs.org/en/docs/inspector
+
+Debugger attached.
+
+Waiting for the debugger to disconnect...
+

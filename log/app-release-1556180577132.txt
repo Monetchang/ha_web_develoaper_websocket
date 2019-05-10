@@ -1,0 +1,1828 @@
+
+> BusinessTemplateAPP@1.0.0 android-release /Users/changyh/Fogcloud/SmartPlus/Business-Template-APP
+> cd ./android && ./gradlew assembleRelease
+
+
+WARNING: The option 'android.enableAapt2' is deprecated and should not be used anymore.
+Use 'android.enableAapt2=true' to remove this warning.
+It will be removed at the end of 2018..
+
+WARNING: Configuration 'compile' is obsolete and has been replaced with 'implementation' and 'api'.
+It will be removed at the end of 2018. For more information see: http://d.android.com/r/tools/update-dependency-configurations.html
+
+WARNING: The option 'android.enableAapt2' is deprecated and should not be used anymore.
+
+
+Use 'android.enableAapt2=true' to remove this warning.
+
+It will be removed at the end of 2018..
+
+
+WARNING: The option 'android.enableAapt2' is deprecated and should not be used anymore.
+
+Use 'android.enableAapt2=true' to remove this warning.
+It will be removed at the end of 2018..
+
+WARNING: The option 'android.enableAapt2' is deprecated and should not be used anymore.
+
+Use 'android.enableAapt2=true' to remove this warning.
+It will be removed at the end of 2018..
+
+WARNING: Configuration 'compile' is obsolete and has been replaced with 'implementation' and 'api'.
+
+It will be removed at the end of 2018. For more information see: http://d.android.com/r/tools/update-dependency-configurations.html
+
+WARNING: The option 'android.enableAapt2' is deprecated and should not be used anymore.
+
+Use 'android.enableAapt2=true' to remove this warning.
+It will be removed at the end of 2018..
+
+WARNING: Configuration 'compile' is obsolete and has been replaced with 'implementation' and 'api'.
+
+It will be removed at the end of 2018. For more information see: http://d.android.com/r/tools/update-dependency-configurations.html
+
+WARNING: The option 'android.enableAapt2' is deprecated and should not be used anymore.
+
+Use 'android.enableAapt2=true' to remove this warning.
+It will be removed at the end of 2018..
+
+WARNING: The option 'android.enableAapt2' is deprecated and should not be used anymore.
+
+Use 'android.enableAapt2=true' to remove this warning.
+It will be removed at the end of 2018..
+
+WARNING: Configuration 'compile' is obsolete and has been replaced with 'implementation' and 'api'.
+
+It will be removed at the end of 2018. For more information see: http://d.android.com/r/tools/update-dependency-configurations.html
+
+WARNING: The option 'android.enableAapt2' is deprecated and should not be used anymore.
+
+Use 'android.enableAapt2=true' to remove this warning.
+It will be removed at the end of 2018..
+
+WARNING: Configuration 'compile' is obsolete and has been replaced with 'implementation' and 'api'.
+
+It will be removed at the end of 2018. For more information see: http://d.android.com/r/tools/update-dependency-configurations.html
+
+WARNING: The option 'android.enableAapt2' is deprecated and should not be used anymore.
+
+Use 'android.enableAapt2=true' to remove this warning.
+It will be removed at the end of 2018..
+
+WARNING: Configuration 'compile' is obsolete and has been replaced with 'implementation' and 'api'.
+
+It will be removed at the end of 2018. For more information see: http://d.android.com/r/tools/update-dependency-configurations.html
+
+WARNING: The option 'android.enableAapt2' is deprecated and should not be used anymore.
+
+Use 'android.enableAapt2=true' to remove this warning.
+It will be removed at the end of 2018..
+
+WARNING: Configuration 'compile' is obsolete and has been replaced with 'implementation' and 'api'.
+
+It will be removed at the end of 2018. For more information see: http://d.android.com/r/tools/update-dependency-configurations.html
+
+WARNING: The option 'android.enableAapt2' is deprecated and should not be used anymore.
+Use 'android.enableAapt2=true' to remove this warning.
+It will be removed at the end of 2018..
+WARNING: Configuration 'compile' is obsolete and has been replaced with 'implementation' and 'api'.
+It will be removed at the end of 2018. For more information see: http://d.android.com/r/tools/update-dependency-configurations.html
+
+WARNING: The option 'android.enableAapt2' is deprecated and should not be used anymore.
+
+Use 'android.enableAapt2=true' to remove this warning.
+It will be removed at the end of 2018..
+
+WARNING: Configuration 'compile' is obsolete and has been replaced with 'implementation' and 'api'.
+It will be removed at the end of 2018. For more information see: http://d.android.com/r/tools/update-dependency-configurations.html
+
+WARNING: The option 'android.enableAapt2' is deprecated and should not be used anymore.
+
+Use 'android.enableAapt2=true' to remove this warning.
+It will be removed at the end of 2018..
+
+WARNING: Configuration 'compile' is obsolete and has been replaced with 'implementation' and 'api'.
+
+It will be removed at the end of 2018. For more information see: http://d.android.com/r/tools/update-dependency-configurations.html
+
+WARNING: The option 'android.enableAapt2' is deprecated and should not be used anymore.
+
+Use 'android.enableAapt2=true' to remove this warning.
+It will be removed at the end of 2018..
+
+WARNING: Configuration 'compile' is obsolete and has been replaced with 'implementation' and 'api'.
+
+It will be removed at the end of 2018. For more information see: http://d.android.com/r/tools/update-dependency-configurations.html
+
+WARNING: The option 'android.enableAapt2' is deprecated and should not be used anymore.
+
+Use 'android.enableAapt2=true' to remove this warning.
+It will be removed at the end of 2018..
+
+WARNING: Configuration 'compile' is obsolete and has been replaced with 'implementation' and 'api'.
+
+It will be removed at the end of 2018. For more information see: http://d.android.com/r/tools/update-dependency-configurations.html
+
+WARNING: The option 'android.enableAapt2' is deprecated and should not be used anymore.
+
+Use 'android.enableAapt2=true' to remove this warning.
+It will be removed at the end of 2018..
+
+WARNING: The option 'android.enableAapt2' is deprecated and should not be used anymore.
+
+Use 'android.enableAapt2=true' to remove this warning.
+It will be removed at the end of 2018..
+
+WARNING: The option 'android.enableAapt2' is deprecated and should not be used anymore.
+
+Use 'android.enableAapt2=true' to remove this warning.
+It will be removed at the end of 2018..
+
+WARNING: Configuration 'compile' is obsolete and has been replaced with 'implementation' and 'api'.
+
+It will be removed at the end of 2018. For more information see: http://d.android.com/r/tools/update-dependency-configurations.html
+
+WARNING: The option 'android.enableAapt2' is deprecated and should not be used anymore.
+
+Use 'android.enableAapt2=true' to remove this warning.
+It will be removed at the end of 2018..
+
+WARNING: Configuration 'compile' is obsolete and has been replaced with 'implementation' and 'api'.
+
+It will be removed at the end of 2018. For more information see: http://d.android.com/r/tools/update-dependency-configurations.html
+
+WARNING: The option 'android.enableAapt2' is deprecated and should not be used anymore.
+
+Use 'android.enableAapt2=true' to remove this warning.
+It will be removed at the end of 2018..
+
+WARNING: Configuration 'compile' is obsolete and has been replaced with 'implementation' and 'api'.
+
+It will be removed at the end of 2018. For more information see: http://d.android.com/r/tools/update-dependency-configurations.html
+
+:app:preBuild
+ 
+UP-TO-DATE
+
+:openalib:preBuild UP-TO-DATE
+:openalib:preReleaseBuild UP-TO-DATE
+:openalib:checkReleaseManifest
+ 
+UP-TO-DATE
+:openalib:processReleaseManifest 
+UP-TO-DATE
+:react-native-camera:preBuild
+ UP-TO-DATE
+:react-native-camera:preReleaseBuild UP-TO-DATE
+:react-native-camera:checkReleaseManifest 
+UP-TO-DATE
+:react-native-camera:processReleaseManifest
+ UP-TO-DATE
+
+:react-native-device-info:preBuild
+ UP-TO-DATE
+
+:react-native-device-info:preReleaseBuild
+ UP-TO-DATE
+
+
+:react-native-device-info:checkReleaseManifest
+ UP-TO-DATE
+
+:react-native-device-info:processReleaseManifest
+ UP-TO-DATE
+
+:react-native-fs:preBuild UP-TO-DATE
+
+:react-native-fs:preReleaseBuild
+ 
+UP-TO-DATE
+
+:react-native-fs:checkReleaseManifest
+ UP-TO-DATE
+
+
+:react-native-fs:processReleaseManifest UP-TO-DATE
+:react-native-gesture-handler:preBuild UP-TO-DATE
+:react-native-gesture-handler:preReleaseBuild UP-TO-DATE
+
+:react-native-gesture-handler:checkReleaseManifest 
+UP-TO-DATE
+
+:react-native-gesture-handler:processReleaseManifest
+ UP-TO-DATE
+
+:react-native-i18n:preBuild 
+UP-TO-DATE
+
+:react-native-i18n:preReleaseBuild 
+UP-TO-DATE
+
+:react-native-i18n:checkReleaseManifest
+ UP-TO-DATE
+
+
+:react-native-i18n:processReleaseManifest
+ 
+UP-TO-DATE
+:react-native-keep-awake:preBuild UP-TO-DATE
+
+:react-native-keep-awake:preReleaseBuild
+ 
+UP-TO-DATE
+
+:react-native-keep-awake:checkReleaseManifest
+ UP-TO-DATE
+
+
+:react-native-keep-awake:processReleaseManifest 
+UP-TO-DATE
+
+:react-native-linear-gradient:preBuild UP-TO-DATE
+:react-native-linear-gradient:preReleaseBuild UP-TO-DATE
+
+:react-native-linear-gradient:checkReleaseManifest
+ UP-TO-DATE
+
+:react-native-linear-gradient:processReleaseManifest
+ UP-TO-DATE
+
+
+:react-native-linking-settings:preBuild
+ UP-TO-DATE
+
+
+:react-native-linking-settings:preReleaseBuild 
+UP-TO-DATE
+
+:react-native-linking-settings:checkReleaseManifest
+ UP-TO-DATE
+
+
+:react-native-linking-settings:processReleaseManifest
+ UP-TO-DATE
+
+
+:react-native-network-info:preBuild UP-TO-DATE
+:react-native-network-info:preReleaseBuild UP-TO-DATE
+:react-native-network-info:checkReleaseManifest
+ UP-TO-DATE
+:react-native-network-info:processReleaseManifest
+ UP-TO-DATE
+
+:react-native-photo-view:preBuild 
+UP-TO-DATE
+
+:react-native-photo-view:preReleaseBuild 
+UP-TO-DATE
+
+:react-native-photo-view:checkReleaseManifest
+ UP-TO-DATE
+
+:react-native-photo-view:processReleaseManifest
+ UP-TO-DATE
+
+
+:react-native-sqlite-storage:preBuild
+ UP-TO-DATE
+
+:react-native-sqlite-storage:preReleaseBuild UP-TO-DATE
+:react-native-sqlite-storage:checkReleaseManifest UP-TO-DATE
+:react-native-sqlite-storage:processReleaseManifest
+ 
+UP-TO-DATE
+:react-native-vector-icons:preBuild UP-TO-DATE
+:react-native-vector-icons:preReleaseBuild 
+UP-TO-DATE
+
+:react-native-vector-icons:checkReleaseManifest
+ UP-TO-DATE
+
+:react-native-vector-icons:processReleaseManifest
+ UP-TO-DATE
+
+:react-native-view-shot:preBuild
+ UP-TO-DATE
+
+
+:react-native-view-shot:preReleaseBuild UP-TO-DATE
+
+
+:react-native-view-shot:checkReleaseManifest 
+UP-TO-DATE
+
+:react-native-view-shot:processReleaseManifest UP-TO-DATE
+:react-native-wheel-picker:preBuild UP-TO-DATE
+:react-native-wheel-picker:preReleaseBuild UP-TO-DATE
+:react-native-wheel-picker:checkReleaseManifest UP-TO-DATE
+
+:react-native-wheel-picker:processReleaseManifest
+ 
+UP-TO-DATE
+:react-native-zip-archive:preBuild UP-TO-DATE
+
+:react-native-zip-archive:preReleaseBuild
+ UP-TO-DATE
+
+:react-native-zip-archive:checkReleaseManifest
+ UP-TO-DATE
+
+:react-native-zip-archive:processReleaseManifest
+ UP-TO-DATE
+
+:rn-fetch-blob:preBuild UP-TO-DATE
+:rn-fetch-blob:preReleaseBuild UP-TO-DATE
+
+:rn-fetch-blob:checkReleaseManifest UP-TO-DATE
+:rn-fetch-blob:processReleaseManifest
+ UP-TO-DATE
+:app:preReleaseBuild
+ 
+UP-TO-DATE
+:openalib:compileReleaseAidl
+ 
+UP-TO-DATE
+:react-native-camera:compileReleaseAidl
+ UP-TO-DATE
+:react-native-device-info:compileReleaseAidl
+ UP-TO-DATE
+:react-native-fs:compileReleaseAidl
+ UP-TO-DATE
+
+:react-native-gesture-handler:compileReleaseAidl
+ 
+UP-TO-DATE
+:react-native-i18n:compileReleaseAidl
+ UP-TO-DATE
+:react-native-keep-awake:compileReleaseAidl
+ 
+UP-TO-DATE
+:react-native-linear-gradient:compileReleaseAidl
+ 
+UP-TO-DATE
+:react-native-linking-settings:compileReleaseAidl
+ 
+UP-TO-DATE
+:react-native-network-info:compileReleaseAidl
+ 
+UP-TO-DATE
+:react-native-photo-view:compileReleaseAidl
+ 
+UP-TO-DATE
+
+:react-native-sqlite-storage:compileReleaseAidl
+ 
+UP-TO-DATE
+
+:react-native-vector-icons:compileReleaseAidl
+ 
+UP-TO-DATE
+
+
+:react-native-view-shot:compileReleaseAidl
+ 
+UP-TO-DATE
+:react-native-wheel-picker:compileReleaseAidl
+ 
+UP-TO-DATE
+:react-native-zip-archive:compileReleaseAidl
+ 
+UP-TO-DATE
+:rn-fetch-blob:compileReleaseAidl
+ 
+UP-TO-DATE
+
+:app:compileReleaseAidl
+ 
+UP-TO-DATE
+:openalib:packageReleaseRenderscript NO-SOURCE
+:react-native-camera:packageReleaseRenderscript NO-SOURCE
+:react-native-device-info:packageReleaseRenderscript 
+NO-SOURCE
+:react-native-fs:packageReleaseRenderscript
+ NO-SOURCE
+:react-native-gesture-handler:packageReleaseRenderscript NO-SOURCE
+
+:react-native-i18n:packageReleaseRenderscript 
+NO-SOURCE
+
+:react-native-keep-awake:packageReleaseRenderscript 
+NO-SOURCE
+
+:react-native-linear-gradient:packageReleaseRenderscript 
+NO-SOURCE
+
+:react-native-linking-settings:packageReleaseRenderscript NO-SOURCE
+
+:react-native-network-info:packageReleaseRenderscript
+ NO-SOURCE
+
+:react-native-photo-view:packageReleaseRenderscript NO-SOURCE
+
+:react-native-sqlite-storage:packageReleaseRenderscript
+ NO-SOURCE
+
+:react-native-vector-icons:packageReleaseRenderscript
+ 
+NO-SOURCE
+
+:react-native-view-shot:packageReleaseRenderscript
+ NO-SOURCE
+:react-native-wheel-picker:packageReleaseRenderscript NO-SOURCE
+:react-native-zip-archive:packageReleaseRenderscript NO-SOURCE
+
+:rn-fetch-blob:packageReleaseRenderscript NO-SOURCE
+
+:app:compileReleaseRenderscript
+ 
+UP-TO-DATE
+:app:checkReleaseManifest UP-TO-DATE
+
+:app:generateReleaseBuildConfig UP-TO-DATE
+:app:prepareLintJar
+ UP-TO-DATE
+
+:app:mergeReleaseShaders
+ UP-TO-DATE
+
+:app:compileReleaseShaders UP-TO-DATE
+
+:app:generateReleaseAssets UP-TO-DATE
+
+:openalib:mergeReleaseShaders
+ UP-TO-DATE
+
+:openalib:compileReleaseShaders UP-TO-DATE
+
+:openalib:generateReleaseAssets
+ UP-TO-DATE
+
+:openalib:packageReleaseAssets UP-TO-DATE
+
+:react-native-camera:mergeReleaseShaders
+ UP-TO-DATE
+:react-native-camera:compileReleaseShaders
+ UP-TO-DATE
+
+:react-native-camera:generateReleaseAssets UP-TO-DATE
+
+:react-native-camera:packageReleaseAssets
+ UP-TO-DATE
+:react-native-device-info:mergeReleaseShaders UP-TO-DATE
+:react-native-device-info:compileReleaseShaders UP-TO-DATE
+:react-native-device-info:generateReleaseAssets UP-TO-DATE
+:react-native-device-info:packageReleaseAssets UP-TO-DATE
+:react-native-fs:mergeReleaseShaders UP-TO-DATE
+:react-native-fs:compileReleaseShaders UP-TO-DATE
+:react-native-fs:generateReleaseAssets UP-TO-DATE
+
+:react-native-fs:packageReleaseAssets UP-TO-DATE
+:react-native-gesture-handler:mergeReleaseShaders 
+UP-TO-DATE
+
+:react-native-gesture-handler:compileReleaseShaders
+ UP-TO-DATE
+
+:react-native-gesture-handler:generateReleaseAssets UP-TO-DATE
+:react-native-gesture-handler:packageReleaseAssets UP-TO-DATE
+:react-native-i18n:mergeReleaseShaders UP-TO-DATE
+:react-native-i18n:compileReleaseShaders
+ UP-TO-DATE
+:react-native-i18n:generateReleaseAssets UP-TO-DATE
+
+:react-native-i18n:packageReleaseAssets UP-TO-DATE
+
+:react-native-keep-awake:mergeReleaseShaders UP-TO-DATE
+
+:react-native-keep-awake:compileReleaseShaders 
+UP-TO-DATE
+:react-native-keep-awake:generateReleaseAssets
+ UP-TO-DATE
+
+:react-native-keep-awake:packageReleaseAssets UP-TO-DATE
+
+:react-native-linear-gradient:mergeReleaseShaders
+ UP-TO-DATE
+
+:react-native-linear-gradient:compileReleaseShaders UP-TO-DATE
+
+:react-native-linear-gradient:generateReleaseAssets
+ UP-TO-DATE
+:react-native-linear-gradient:packageReleaseAssets UP-TO-DATE
+:react-native-linking-settings:mergeReleaseShaders
+ UP-TO-DATE
+:react-native-linking-settings:compileReleaseShaders UP-TO-DATE
+:react-native-linking-settings:generateReleaseAssets
+ UP-TO-DATE
+:react-native-linking-settings:packageReleaseAssets UP-TO-DATE
+:react-native-network-info:mergeReleaseShaders UP-TO-DATE
+
+:react-native-network-info:compileReleaseShaders UP-TO-DATE
+
+:react-native-network-info:generateReleaseAssets
+ UP-TO-DATE
+:react-native-network-info:packageReleaseAssets UP-TO-DATE
+
+:react-native-photo-view:mergeReleaseShaders UP-TO-DATE
+:react-native-photo-view:compileReleaseShaders
+ UP-TO-DATE
+
+:react-native-photo-view:generateReleaseAssets UP-TO-DATE
+
+:react-native-photo-view:packageReleaseAssets UP-TO-DATE
+:react-native-sqlite-storage:mergeReleaseShaders
+ UP-TO-DATE
+
+:react-native-sqlite-storage:compileReleaseShaders
+ UP-TO-DATE
+
+:react-native-sqlite-storage:generateReleaseAssets UP-TO-DATE
+:react-native-sqlite-storage:packageReleaseAssets UP-TO-DATE
+
+:react-native-vector-icons:mergeReleaseShaders
+ UP-TO-DATE
+:react-native-vector-icons:compileReleaseShaders
+ UP-TO-DATE
+
+:react-native-vector-icons:generateReleaseAssets UP-TO-DATE
+
+:react-native-vector-icons:packageReleaseAssets UP-TO-DATE
+
+:react-native-view-shot:mergeReleaseShaders UP-TO-DATE
+
+:react-native-view-shot:compileReleaseShaders UP-TO-DATE
+
+:react-native-view-shot:generateReleaseAssets 
+UP-TO-DATE
+:react-native-view-shot:packageReleaseAssets 
+UP-TO-DATE
+
+:react-native-wheel-picker:mergeReleaseShaders
+ UP-TO-DATE
+
+:react-native-wheel-picker:compileReleaseShaders UP-TO-DATE
+
+:react-native-wheel-picker:generateReleaseAssets UP-TO-DATE
+:react-native-wheel-picker:packageReleaseAssets UP-TO-DATE
+:react-native-zip-archive:mergeReleaseShaders
+ UP-TO-DATE
+:react-native-zip-archive:compileReleaseShaders 
+UP-TO-DATE
+:react-native-zip-archive:generateReleaseAssets
+ UP-TO-DATE
+:react-native-zip-archive:packageReleaseAssets
+ UP-TO-DATE
+
+:rn-fetch-blob:mergeReleaseShaders UP-TO-DATE
+
+:rn-fetch-blob:compileReleaseShaders UP-TO-DATE
+
+:rn-fetch-blob:generateReleaseAssets UP-TO-DATE
+
+:rn-fetch-blob:packageReleaseAssets
+ UP-TO-DATE
+
+:app:mergeReleaseAssets
+ UP-TO-DATE
+
+:app:generateReleaseResValues UP-TO-DATE
+
+:app:generateReleaseResources
+ UP-TO-DATE
+:openalib:compileReleaseRenderscript
+ 
+UP-TO-DATE
+:openalib:generateReleaseResValues UP-TO-DATE
+:openalib:generateReleaseResources UP-TO-DATE
+
+:openalib:packageReleaseResources UP-TO-DATE
+
+:react-native-camera:compileReleaseRenderscript
+ 
+UP-TO-DATE
+
+
+:react-native-camera:generateReleaseResValues UP-TO-DATE
+:react-native-camera:generateReleaseResources UP-TO-DATE
+
+:react-native-camera:packageReleaseResources UP-TO-DATE
+:react-native-device-info:compileReleaseRenderscript
+ UP-TO-DATE
+
+:react-native-device-info:generateReleaseResValues
+ UP-TO-DATE
+:react-native-device-info:generateReleaseResources
+ UP-TO-DATE
+
+:react-native-device-info:packageReleaseResources UP-TO-DATE
+
+:react-native-fs:compileReleaseRenderscript UP-TO-DATE
+:react-native-fs:generateReleaseResValues 
+UP-TO-DATE
+
+:react-native-fs:generateReleaseResources
+ 
+UP-TO-DATE
+:react-native-fs:packageReleaseResources UP-TO-DATE
+
+:react-native-gesture-handler:compileReleaseRenderscript
+ UP-TO-DATE
+
+
+:react-native-gesture-handler:generateReleaseResValues
+ UP-TO-DATE
+
+:react-native-gesture-handler:generateReleaseResources
+ UP-TO-DATE
+
+:react-native-gesture-handler:packageReleaseResources
+ 
+UP-TO-DATE
+:react-native-i18n:compileReleaseRenderscript
+ 
+UP-TO-DATE
+:react-native-i18n:generateReleaseResValues UP-TO-DATE
+
+:react-native-i18n:generateReleaseResources
+ UP-TO-DATE
+:react-native-i18n:packageReleaseResources
+ UP-TO-DATE
+
+
+:react-native-keep-awake:compileReleaseRenderscript
+ 
+UP-TO-DATE
+
+:react-native-keep-awake:generateReleaseResValues
+ 
+UP-TO-DATE
+
+:react-native-keep-awake:generateReleaseResources UP-TO-DATE
+
+:react-native-keep-awake:packageReleaseResources UP-TO-DATE
+
+:react-native-linear-gradient:compileReleaseRenderscript
+ UP-TO-DATE
+
+:react-native-linear-gradient:generateReleaseResValues
+ UP-TO-DATE
+:react-native-linear-gradient:generateReleaseResources
+ UP-TO-DATE
+:react-native-linear-gradient:packageReleaseResources UP-TO-DATE
+
+:react-native-linking-settings:compileReleaseRenderscript
+ UP-TO-DATE
+
+:react-native-linking-settings:generateReleaseResValues UP-TO-DATE
+:react-native-linking-settings:generateReleaseResources UP-TO-DATE
+:react-native-linking-settings:packageReleaseResources UP-TO-DATE
+:react-native-network-info:compileReleaseRenderscript
+ 
+UP-TO-DATE
+:react-native-network-info:generateReleaseResValues UP-TO-DATE
+
+:react-native-network-info:generateReleaseResources UP-TO-DATE
+:react-native-network-info:packageReleaseResources 
+UP-TO-DATE
+:react-native-photo-view:compileReleaseRenderscript
+ 
+UP-TO-DATE
+:react-native-photo-view:generateReleaseResValues UP-TO-DATE
+:react-native-photo-view:generateReleaseResources
+ UP-TO-DATE
+
+:react-native-photo-view:packageReleaseResources UP-TO-DATE
+:react-native-sqlite-storage:compileReleaseRenderscript
+ UP-TO-DATE
+:react-native-sqlite-storage:generateReleaseResValues
+ 
+UP-TO-DATE
+
+
+:react-native-sqlite-storage:generateReleaseResources
+ 
+UP-TO-DATE
+
+:react-native-sqlite-storage:packageReleaseResources
+ UP-TO-DATE
+
+
+:react-native-vector-icons:compileReleaseRenderscript
+ UP-TO-DATE
+
+:react-native-vector-icons:generateReleaseResValues UP-TO-DATE
+
+:react-native-vector-icons:generateReleaseResources
+ 
+UP-TO-DATE
+
+:react-native-vector-icons:packageReleaseResources
+ 
+UP-TO-DATE
+
+
+:react-native-view-shot:compileReleaseRenderscript
+ UP-TO-DATE
+
+:react-native-view-shot:generateReleaseResValues UP-TO-DATE
+
+:react-native-view-shot:generateReleaseResources
+ 
+UP-TO-DATE
+
+
+:react-native-view-shot:packageReleaseResources
+ UP-TO-DATE
+
+:react-native-wheel-picker:compileReleaseRenderscript
+ 
+UP-TO-DATE
+
+:react-native-wheel-picker:generateReleaseResValues
+ UP-TO-DATE
+
+
+:react-native-wheel-picker:generateReleaseResources
+ UP-TO-DATE
+
+:react-native-wheel-picker:packageReleaseResources
+ UP-TO-DATE
+
+:react-native-zip-archive:compileReleaseRenderscript
+ 
+UP-TO-DATE
+
+:react-native-zip-archive:generateReleaseResValues UP-TO-DATE
+:react-native-zip-archive:generateReleaseResources UP-TO-DATE
+
+:react-native-zip-archive:packageReleaseResources
+ UP-TO-DATE
+:rn-fetch-blob:compileReleaseRenderscript UP-TO-DATE
+:rn-fetch-blob:generateReleaseResValues UP-TO-DATE
+:rn-fetch-blob:generateReleaseResources UP-TO-DATE
+:rn-fetch-blob:packageReleaseResources UP-TO-DATE
+:app:mergeReleaseResources
+ UP-TO-DATE
+
+:app:bundleReleaseJsAndAssets
+
+
+Scanning folders for symlinks in /Users/changyh/Fogcloud/SmartPlus/Business-Template-APP/node_modules (20ms)
+
+Scanning folders for symlinks in /Users/changyh/Fogcloud/SmartPlus/Business-Template-APP/node_modules (51ms)
+
+jest-haste-map: @providesModule naming collision:
+
+  Duplicate module name: ProgressBarTestModule
+  Paths: /Users/changyh/Fogcloud/SmartPlus/Business-Template-APP/ReactAndroid/src/androidTest/js/ProgressBarTestModule.js collides with /Users/changyh/Fogcloud/SmartPlus/Business-Template-APP/node_modules/react-native/ReactAndroid/src/androidTest/js/ProgressBarTestModule.js
+
+This warning is caused by a @providesModule declaration with the same name across two different files.
+jest-haste-map: @providesModule naming collision:
+  Duplicate module name: TestIdTestModule
+  Paths: /Users/changyh/Fogcloud/SmartPlus/Business-Template-APP/ReactAndroid/src/androidTest/js/TestIdTestModule.js collides with /Users/changyh/Fogcloud/SmartPlus/Business-Template-APP/node_modules/react-native/ReactAndroid/src/androidTest/js/TestIdTestModule.js
+
+This warning is caused by a @providesModule declaration with the same name across two different files.
+jest-haste-map: @providesModule naming collision:
+  Duplicate module name: CatalystRootViewTestModule
+  Paths: /Users/changyh/Fogcloud/SmartPlus/Business-Template-APP/ReactAndroid/src/androidTest/js/CatalystRootViewTestModule.js collides with /Users/changyh/Fogcloud/SmartPlus/Business-Template-APP/node_modules/react-native/ReactAndroid/src/androidTest/js/CatalystRootViewTestModule.js
+
+This warning is caused by a @providesModule declaration with the same name across two different files.
+jest-haste-map: @providesModule naming collision:
+  Duplicate module name: ShareTestModule
+  Paths: /Users/changyh/Fogcloud/SmartPlus/Business-Template-APP/ReactAndroid/src/androidTest/js/ShareTestModule.js collides with /Users/changyh/Fogcloud/SmartPlus/Business-Template-APP/node_modules/react-native/ReactAndroid/src/androidTest/js/ShareTestModule.js
+
+This warning is caused by a @providesModule declaration with the same name across two different files.
+jest-haste-map: @providesModule naming collision:
+  Duplicate module name: UIManagerTestModule
+  Paths: /Users/changyh/Fogcloud/SmartPlus/Business-Template-APP/ReactAndroid/src/androidTest/js/UIManagerTestModule.js collides with /Users/changyh/Fogcloud/SmartPlus/Business-Template-APP/node_modules/react-native/ReactAndroid/src/androidTest/js/UIManagerTestModule.js
+
+This warning is caused by a @providesModule declaration with the same name across two different files.
+jest-haste-map: @providesModule naming collision:
+  Duplicate module name: TestJSToJavaParametersModule
+
+  Paths: /Users/changyh/Fogcloud/SmartPlus/Business-Template-APP/ReactAndroid/src/androidTest/js/TestJSToJavaParametersModule.js collides with /Users/changyh/Fogcloud/SmartPlus/Business-Template-APP/node_modules/react-native/ReactAndroid/src/androidTest/js/TestJSToJavaParametersModule.js
+
+This warning is caused by a @providesModule declaration with the same name across two different files.
+jest-haste-map: @providesModule naming collision:
+  Duplicate module name: TestBundle
+  Paths: /Users/changyh/Fogcloud/SmartPlus/Business-Template-APP/ReactAndroid/src/androidTest/js/TestBundle.js collides with /Users/changyh/Fogcloud/SmartPlus/Business-Template-APP/node_modules/react-native/ReactAndroid/src/androidTest/js/TestBundle.js
+
+This warning is caused by a @providesModule declaration with the same name across two different files.
+jest-haste-map: @providesModule naming collision:
+  Duplicate module name: NativeIdTestModule
+  Paths: /Users/changyh/Fogcloud/SmartPlus/Business-Template-APP/ReactAndroid/src/androidTest/js/NativeIdTestModule.js collides with /Users/changyh/Fogcloud/SmartPlus/Business-Template-APP/node_modules/react-native/ReactAndroid/src/androidTest/js/NativeIdTestModule.js
+
+This warning is caused by a @providesModule declaration with the same name across two different files.
+jest-haste-map: @providesModule naming collision:
+  Duplicate module name: SubviewsClippingTestModule
+  Paths: /Users/changyh/Fogcloud/SmartPlus/Business-Template-APP/ReactAndroid/src/androidTest/js/SubviewsClippingTestModule.js collides with /Users/changyh/Fogcloud/SmartPlus/Business-Template-APP/node_modules/react-native/ReactAndroid/src/androidTest/js/SubviewsClippingTestModule.js
+
+This warning is caused by a @providesModule declaration with the same name across two different files.
+jest-haste-map: @providesModule naming collision:
+  Duplicate module name: TestJavaToJSReturnValuesModule
+  Paths: /Users/changyh/Fogcloud/SmartPlus/Business-Template-APP/ReactAndroid/src/androidTest/js/TestJavaToJSReturnValuesModule.js collides with /Users/changyh/Fogcloud/SmartPlus/Business-Template-APP/node_modules/react-native/ReactAndroid/src/androidTest/js/TestJavaToJSReturnValuesModule.js
+
+This warning is caused by a @providesModule declaration with the same name across two different files.
+jest-haste-map: @providesModule naming collision:
+  Duplicate module name: SwipeRefreshLayoutTestModule
+  Paths: /Users/changyh/Fogcloud/SmartPlus/Business-Template-APP/ReactAndroid/src/androidTest/js/SwipeRefreshLayoutTestModule.js collides with /Users/changyh/Fogcloud/SmartPlus/Business-Template-APP/node_modules/react-native/ReactAndroid/src/androidTest/js/SwipeRefreshLayoutTestModule.js
+
+This warning is caused by a @providesModule declaration with the same name across two different files.
+jest-haste-map: @providesModule naming collision:
+  Duplicate module name: ScrollViewTestModule
+  Paths: /Users/changyh/Fogcloud/SmartPlus/Business-Template-APP/ReactAndroid/src/androidTest/js/ScrollViewTestModule.js collides with /Users/changyh/Fogcloud/SmartPlus/Business-Template-APP/node_modules/react-native/ReactAndroid/src/androidTest/js/ScrollViewTestModule.js
+
+This warning is caused by a @providesModule declaration with the same name across two different files.
+jest-haste-map: @providesModule naming collision:
+  Duplicate module name: TestJSLocaleModule
+  Paths: /Users/changyh/Fogcloud/SmartPlus/Business-Template-APP/ReactAndroid/src/androidTest/js/TestJSLocaleModule.js collides with /Users/changyh/Fogcloud/SmartPlus/Business-Template-APP/node_modules/react-native/ReactAndroid/src/androidTest/js/TestJSLocaleModule.js
+
+This warning is caused by a @providesModule declaration with the same name across two different files.
+jest-haste-map: @providesModule naming collision:
+  Duplicate module name: Asserts
+  Paths: /Users/changyh/Fogcloud/SmartPlus/Business-Template-APP/ReactAndroid/src/androidTest/js/Asserts.js collides with /Users/changyh/Fogcloud/SmartPlus/Business-Template-APP/node_modules/react-native/ReactAndroid/src/androidTest/js/Asserts.js
+
+This warning is caused by a @providesModule declaration with the same name across two different files.
+jest-haste-map: @providesModule naming collision:
+  Duplicate module name: JSResponderTestApp
+  Paths: /Users/changyh/Fogcloud/SmartPlus/Business-Template-APP/ReactAndroid/src/androidTest/js/JSResponderTestApp.js collides with /Users/changyh/Fogcloud/SmartPlus/Business-Template-APP/node_modules/react-native/ReactAndroid/src/androidTest/js/JSResponderTestApp.js
+
+This warning is caused by a @providesModule declaration with the same name across two different files.
+
+jest-haste-map: @providesModule naming collision:
+
+  Duplicate module name: InitialPropsTestApp
+  Paths: /Users/changyh/Fogcloud/SmartPlus/Business-Template-APP/ReactAndroid/src/androidTest/js/InitialPropsTestApp.js collides with /Users/changyh/Fogcloud/SmartPlus/Business-Template-APP/node_modules/react-native/ReactAndroid/src/androidTest/js/InitialPropsTestApp.js
+
+This warning is caused by a @providesModule declaration with the same name across two different files.
+jest-haste-map: @providesModule naming collision:
+  Duplicate module name: TextInputTestModule
+  Paths: /Users/changyh/Fogcloud/SmartPlus/Business-Template-APP/ReactAndroid/src/androidTest/js/TextInputTestModule.js collides with /Users/changyh/Fogcloud/SmartPlus/Business-Template-APP/node_modules/react-native/ReactAndroid/src/androidTest/js/TextInputTestModule.js
+
+This warning is caused by a @providesModule declaration with the same name across two different files.
+jest-haste-map: @providesModule naming collision:
+  Duplicate module name: TestJavaToJSArgumentsModule
+
+  Paths: /Users/changyh/Fogcloud/SmartPlus/Business-Template-APP/ReactAndroid/src/androidTest/js/TestJavaToJSArgumentsModule.js collides with /Users/changyh/Fogcloud/SmartPlus/Business-Template-APP/node_modules/react-native/ReactAndroid/src/androidTest/js/TestJavaToJSArgumentsModule.js
+
+This warning is caused by a @providesModule declaration with the same name across two different files.
+jest-haste-map: @providesModule naming collision:
+
+  Duplicate module name: TimePickerDialogTestModule
+  Paths: /Users/changyh/Fogcloud/SmartPlus/Business-Template-APP/ReactAndroid/src/androidTest/js/TimePickerDialogTestModule.js collides with /Users/changyh/Fogcloud/SmartPlus/Business-Template-APP/node_modules/react-native/ReactAndroid/src/androidTest/js/TimePickerDialogTestModule.js
+
+This warning is caused by a @providesModule declaration with the same name across two different files.
+jest-haste-map: @providesModule naming collision:
+  Duplicate module name: PickerAndroidTestModule
+  Paths: /Users/changyh/Fogcloud/SmartPlus/Business-Template-APP/ReactAndroid/src/androidTest/js/PickerAndroidTestModule.js collides with /Users/changyh/Fogcloud/SmartPlus/Business-Template-APP/node_modules/react-native/ReactAndroid/src/androidTest/js/PickerAndroidTestModule.js
+
+This warning is caused by a @providesModule declaration with the same name across two different files.
+jest-haste-map: @providesModule naming collision:
+  Duplicate module name: MultitouchHandlingTestAppModule
+  Paths: /Users/changyh/Fogcloud/SmartPlus/Business-Template-APP/ReactAndroid/src/androidTest/js/MultitouchHandlingTestAppModule.js collides with /Users/changyh/Fogcloud/SmartPlus/Business-Template-APP/node_modules/react-native/ReactAndroid/src/androidTest/js/MultitouchHandlingTestAppModule.js
+
+This warning is caused by a @providesModule declaration with the same name across two different files.
+jest-haste-map: @providesModule naming collision:
+  Duplicate module name: TouchBubblingTestAppModule
+  Paths: /Users/changyh/Fogcloud/SmartPlus/Business-Template-APP/ReactAndroid/src/androidTest/js/TouchBubblingTestAppModule.js collides with /Users/changyh/Fogcloud/SmartPlus/Business-Template-APP/node_modules/react-native/ReactAndroid/src/androidTest/js/TouchBubblingTestAppModule.js
+
+This warning is caused by a @providesModule declaration with the same name across two different files.
+jest-haste-map: @providesModule naming collision:
+  Duplicate module name: DatePickerDialogTestModule
+  Paths: /Users/changyh/Fogcloud/SmartPlus/Business-Template-APP/ReactAndroid/src/androidTest/js/DatePickerDialogTestModule.js collides with /Users/changyh/Fogcloud/SmartPlus/Business-Template-APP/node_modules/react-native/ReactAndroid/src/androidTest/js/DatePickerDialogTestModule.js
+
+This warning is caused by a @providesModule declaration with the same name across two different files.
+jest-haste-map: @providesModule naming collision:
+  Duplicate module name: LayoutEventsTestApp
+  Paths: /Users/changyh/Fogcloud/SmartPlus/Business-Template-APP/ReactAndroid/src/androidTest/js/LayoutEventsTestApp.js collides with /Users/changyh/Fogcloud/SmartPlus/Business-Template-APP/node_modules/react-native/ReactAndroid/src/androidTest/js/LayoutEventsTestApp.js
+
+This warning is caused by a @providesModule declaration with the same name across two different files.
+jest-haste-map: @providesModule naming collision:
+  Duplicate module name: ViewRenderingTestModule
+  Paths: /Users/changyh/Fogcloud/SmartPlus/Business-Template-APP/ReactAndroid/src/androidTest/js/ViewRenderingTestModule.js collides with /Users/changyh/Fogcloud/SmartPlus/Business-Template-APP/node_modules/react-native/ReactAndroid/src/androidTest/js/ViewRenderingTestModule.js
+
+
+This warning is caused by a @providesModule declaration with the same name across two different files.
+jest-haste-map: @providesModule naming collision:
+  Duplicate module name: MeasureLayoutTestModule
+  Paths: /Users/changyh/Fogcloud/SmartPlus/Business-Template-APP/ReactAndroid/src/androidTest/js/MeasureLayoutTestModule.js collides with /Users/changyh/Fogcloud/SmartPlus/Business-Template-APP/node_modules/react-native/ReactAndroid/src/androidTest/js/MeasureLayoutTestModule.js
+
+This warning is caused by a @providesModule declaration with the same name across two different files.
+
+Loading dependency graph, done.
+
+
+warning: the transform cache was reset.
+
+
+transform[stderr]: 
+
+
+transform[stderr]:         You or one of the Babel plugins you are using are using Flow declarations as bindings.
+
+transform[stderr]:         Support for this will be removed in version 7. To find out the caller, grep for this
+transform[stderr]:         message and change it to a `console.trace()`.
+transform[stderr]:       
+transform[stderr]: 
+transform[stderr]:         You or one of the Babel plugins you are using are using Flow declarations as bindings.
+transform[stderr]:         Support for this will be removed in version 7. To find out the caller, grep for this
+transform[stderr]:         message and change it to a `console.trace()`.
+transform[stderr]:       
+transform[stderr]: 
+transform[stderr]:         You or one of the Babel plugins you are using are using Flow declarations as bindings.
+transform[stderr]:         Support for this will be removed in version 7. To find out the caller, grep for this
+transform[stderr]:         message and change it to a `console.trace()`.
+transform[stderr]:       
+transform[stderr]: 
+transform[stderr]:         You or one of the Babel plugins you are using are using Flow declarations as bindings.
+transform[stderr]:         Support for this will be removed in version 7. To find out the caller, grep for this
+transform[stderr]:         message and change it to a `console.trace()`.
+transform[stderr]:       
+
+bundle: Writing bundle output to: /Users/changyh/Fogcloud/SmartPlus/Business-Template-APP/android/app/build/intermediates/assets/release/index.android.bundle
+
+bundle: Done writing bundle output
+
+bundle: Copying 478 asset files
+
+bundle: Done copying assets
+
+:app:mainApkListPersistenceRelease
+ UP-TO-DATE
+
+:app:createReleaseCompatibleScreenManifests UP-TO-DATE
+:app:processReleaseManifest
+ UP-TO-DATE
+:app:splitsDiscoveryTaskRelease UP-TO-DATE
+
+:openalib:platformAttrExtractor
+ UP-TO-DATE
+:openalib:generateReleaseRFile
+ UP-TO-DATE
+:react-native-camera:platformAttrExtractor UP-TO-DATE
+:react-native-camera:generateReleaseRFile
+ UP-TO-DATE
+:react-native-device-info:platformAttrExtractor UP-TO-DATE
+:react-native-device-info:generateReleaseRFile
+ UP-TO-DATE
+:react-native-fs:platformAttrExtractor
+ UP-TO-DATE
+:react-native-fs:generateReleaseRFile
+ UP-TO-DATE
+
+:react-native-gesture-handler:platformAttrExtractor
+ UP-TO-DATE
+
+:react-native-gesture-handler:generateReleaseRFile
+ UP-TO-DATE
+:react-native-i18n:platformAttrExtractor UP-TO-DATE
+
+:react-native-i18n:generateReleaseRFile
+ UP-TO-DATE
+
+:react-native-keep-awake:platformAttrExtractor
+ UP-TO-DATE
+:react-native-keep-awake:generateReleaseRFile
+ UP-TO-DATE
+
+:react-native-linear-gradient:platformAttrExtractor UP-TO-DATE
+:react-native-linear-gradient:generateReleaseRFile
+ UP-TO-DATE
+
+:react-native-linking-settings:platformAttrExtractor UP-TO-DATE
+
+:react-native-linking-settings:generateReleaseRFile
+ UP-TO-DATE
+
+:react-native-network-info:platformAttrExtractor
+ UP-TO-DATE
+
+:react-native-network-info:generateReleaseRFile
+ UP-TO-DATE
+
+:react-native-photo-view:platformAttrExtractor
+ UP-TO-DATE
+
+:react-native-photo-view:generateReleaseRFile
+ UP-TO-DATE
+
+:react-native-sqlite-storage:platformAttrExtractor
+ UP-TO-DATE
+
+:react-native-sqlite-storage:generateReleaseRFile
+ UP-TO-DATE
+
+:react-native-vector-icons:platformAttrExtractor
+ UP-TO-DATE
+
+:react-native-vector-icons:generateReleaseRFile
+ UP-TO-DATE
+
+:react-native-view-shot:platformAttrExtractor
+ 
+UP-TO-DATE
+:react-native-view-shot:generateReleaseRFile
+ UP-TO-DATE
+
+:react-native-wheel-picker:platformAttrExtractor
+ UP-TO-DATE
+
+:react-native-wheel-picker:generateReleaseRFile
+ UP-TO-DATE
+
+:react-native-zip-archive:platformAttrExtractor
+ UP-TO-DATE
+
+:react-native-zip-archive:generateReleaseRFile
+ UP-TO-DATE
+
+:rn-fetch-blob:platformAttrExtractor
+ UP-TO-DATE
+
+:rn-fetch-blob:generateReleaseRFile
+ UP-TO-DATE
+:app:processReleaseResources
+ UP-TO-DATE
+
+:app:generateReleaseSources
+ UP-TO-DATE
+:openalib:generateReleaseBuildConfig UP-TO-DATE
+:openalib:prepareLintJar UP-TO-DATE
+:openalib:generateReleaseSources UP-TO-DATE
+:openalib:javaPreCompileRelease
+ UP-TO-DATE
+:openalib:compileReleaseJavaWithJavac
+ UP-TO-DATE
+
+:openalib:processReleaseJavaRes NO-SOURCE
+:openalib:transformClassesAndResourcesWithPrepareIntermediateJarsForRelease
+ UP-TO-DATE
+
+:react-native-camera:generateReleaseBuildConfig UP-TO-DATE
+:react-native-camera:prepareLintJar UP-TO-DATE
+:react-native-camera:generateReleaseSources UP-TO-DATE
+:react-native-camera:javaPreCompileRelease
+ UP-TO-DATE
+
+:react-native-camera:compileReleaseJavaWithJavac
+ 
+UP-TO-DATE
+:react-native-camera:processReleaseJavaRes NO-SOURCE
+:react-native-camera:transformClassesAndResourcesWithPrepareIntermediateJarsForRelease UP-TO-DATE
+:react-native-device-info:generateReleaseBuildConfig UP-TO-DATE
+:react-native-device-info:prepareLintJar UP-TO-DATE
+:react-native-device-info:generateReleaseSources UP-TO-DATE
+:react-native-device-info:javaPreCompileRelease
+ UP-TO-DATE
+
+:react-native-device-info:compileReleaseJavaWithJavac
+ UP-TO-DATE
+
+:react-native-device-info:processReleaseJavaRes NO-SOURCE
+:react-native-device-info:transformClassesAndResourcesWithPrepareIntermediateJarsForRelease UP-TO-DATE
+:react-native-fs:generateReleaseBuildConfig UP-TO-DATE
+:react-native-fs:prepareLintJar UP-TO-DATE
+:react-native-fs:generateReleaseSources UP-TO-DATE
+:react-native-fs:javaPreCompileRelease
+ UP-TO-DATE
+:react-native-fs:compileReleaseJavaWithJavac
+ 
+UP-TO-DATE
+:react-native-fs:processReleaseJavaRes NO-SOURCE
+
+:react-native-fs:transformClassesAndResourcesWithPrepareIntermediateJarsForRelease 
+UP-TO-DATE
+:react-native-gesture-handler:generateReleaseBuildConfig UP-TO-DATE
+:react-native-gesture-handler:prepareLintJar UP-TO-DATE
+:react-native-gesture-handler:generateReleaseSources
+ UP-TO-DATE
+:react-native-gesture-handler:javaPreCompileRelease
+ UP-TO-DATE
+
+:react-native-gesture-handler:compileReleaseJavaWithJavac
+ UP-TO-DATE
+:react-native-gesture-handler:processReleaseJavaRes NO-SOURCE
+:react-native-gesture-handler:transformClassesAndResourcesWithPrepareIntermediateJarsForRelease
+ UP-TO-DATE
+
+:react-native-i18n:generateReleaseBuildConfig UP-TO-DATE
+:react-native-i18n:prepareLintJar UP-TO-DATE
+:react-native-i18n:generateReleaseSources UP-TO-DATE
+:react-native-i18n:javaPreCompileRelease UP-TO-DATE
+:react-native-i18n:compileReleaseJavaWithJavac
+ UP-TO-DATE
+:react-native-i18n:processReleaseJavaRes NO-SOURCE
+:react-native-i18n:transformClassesAndResourcesWithPrepareIntermediateJarsForRelease UP-TO-DATE
+:react-native-keep-awake:generateReleaseBuildConfig UP-TO-DATE
+:react-native-keep-awake:prepareLintJar UP-TO-DATE
+:react-native-keep-awake:generateReleaseSources UP-TO-DATE
+:react-native-keep-awake:javaPreCompileRelease UP-TO-DATE
+:react-native-keep-awake:compileReleaseJavaWithJavac
+ UP-TO-DATE
+:react-native-keep-awake:processReleaseJavaRes NO-SOURCE
+
+:react-native-keep-awake:transformClassesAndResourcesWithPrepareIntermediateJarsForRelease UP-TO-DATE
+:react-native-linear-gradient:generateReleaseBuildConfig UP-TO-DATE
+:react-native-linear-gradient:prepareLintJar UP-TO-DATE
+:react-native-linear-gradient:generateReleaseSources UP-TO-DATE
+:react-native-linear-gradient:javaPreCompileRelease
+ 
+UP-TO-DATE
+:react-native-linear-gradient:compileReleaseJavaWithJavac
+ 
+UP-TO-DATE
+:react-native-linear-gradient:processReleaseJavaRes NO-SOURCE
+:react-native-linear-gradient:transformClassesAndResourcesWithPrepareIntermediateJarsForRelease UP-TO-DATE
+:react-native-linking-settings:generateReleaseBuildConfig UP-TO-DATE
+:react-native-linking-settings:prepareLintJar UP-TO-DATE
+:react-native-linking-settings:generateReleaseSources UP-TO-DATE
+:react-native-linking-settings:javaPreCompileRelease
+ UP-TO-DATE
+
+:react-native-linking-settings:compileReleaseJavaWithJavac
+ UP-TO-DATE
+
+:react-native-linking-settings:processReleaseJavaRes NO-SOURCE
+:react-native-linking-settings:transformClassesAndResourcesWithPrepareIntermediateJarsForRelease UP-TO-DATE
+
+:react-native-network-info:generateReleaseBuildConfig
+ UP-TO-DATE
+:react-native-network-info:prepareLintJar UP-TO-DATE
+:react-native-network-info:generateReleaseSources UP-TO-DATE
+:react-native-network-info:javaPreCompileRelease UP-TO-DATE
+:react-native-network-info:compileReleaseJavaWithJavac UP-TO-DATE
+
+:react-native-network-info:processReleaseJavaRes NO-SOURCE
+:react-native-network-info:transformClassesAndResourcesWithPrepareIntermediateJarsForRelease
+ UP-TO-DATE
+:react-native-photo-view:generateReleaseBuildConfig UP-TO-DATE
+:react-native-photo-view:prepareLintJar UP-TO-DATE
+
+:react-native-photo-view:generateReleaseSources UP-TO-DATE
+:react-native-photo-view:javaPreCompileRelease UP-TO-DATE
+:react-native-photo-view:compileReleaseJavaWithJavac
+ UP-TO-DATE
+:react-native-photo-view:processReleaseJavaRes 
+NO-SOURCE
+:react-native-photo-view:transformClassesAndResourcesWithPrepareIntermediateJarsForRelease
+ UP-TO-DATE
+
+:react-native-sqlite-storage:generateReleaseBuildConfig 
+UP-TO-DATE
+:react-native-sqlite-storage:prepareLintJar UP-TO-DATE
+:react-native-sqlite-storage:generateReleaseSources UP-TO-DATE
+:react-native-sqlite-storage:javaPreCompileRelease
+ UP-TO-DATE
+
+:react-native-sqlite-storage:compileReleaseJavaWithJavac
+ UP-TO-DATE
+
+:react-native-sqlite-storage:processReleaseJavaRes NO-SOURCE
+
+:react-native-sqlite-storage:transformClassesAndResourcesWithPrepareIntermediateJarsForRelease
+ UP-TO-DATE
+:react-native-vector-icons:generateReleaseBuildConfig UP-TO-DATE
+
+:react-native-vector-icons:prepareLintJar
+ UP-TO-DATE
+:react-native-vector-icons:generateReleaseSources UP-TO-DATE
+:react-native-vector-icons:javaPreCompileRelease
+ UP-TO-DATE
+:react-native-vector-icons:compileReleaseJavaWithJavac UP-TO-DATE
+
+:react-native-vector-icons:processReleaseJavaRes
+ 
+NO-SOURCE
+:react-native-vector-icons:transformClassesAndResourcesWithPrepareIntermediateJarsForRelease UP-TO-DATE
+:react-native-view-shot:generateReleaseBuildConfig UP-TO-DATE
+:react-native-view-shot:prepareLintJar UP-TO-DATE
+:react-native-view-shot:generateReleaseSources UP-TO-DATE
+:react-native-view-shot:javaPreCompileRelease
+ UP-TO-DATE
+
+:react-native-view-shot:compileReleaseJavaWithJavac
+ UP-TO-DATE
+
+:react-native-view-shot:processReleaseJavaRes
+ NO-SOURCE
+
+:react-native-view-shot:transformClassesAndResourcesWithPrepareIntermediateJarsForRelease UP-TO-DATE
+:react-native-wheel-picker:generateReleaseBuildConfig UP-TO-DATE
+:react-native-wheel-picker:prepareLintJar UP-TO-DATE
+:react-native-wheel-picker:generateReleaseSources UP-TO-DATE
+:react-native-wheel-picker:javaPreCompileRelease
+ UP-TO-DATE
+:react-native-wheel-picker:compileReleaseJavaWithJavac
+ UP-TO-DATE
+:react-native-wheel-picker:processReleaseJavaRes NO-SOURCE
+:react-native-wheel-picker:transformClassesAndResourcesWithPrepareIntermediateJarsForRelease UP-TO-DATE
+:react-native-zip-archive:generateReleaseBuildConfig UP-TO-DATE
+:react-native-zip-archive:prepareLintJar UP-TO-DATE
+:react-native-zip-archive:generateReleaseSources UP-TO-DATE
+:react-native-zip-archive:javaPreCompileRelease UP-TO-DATE
+:react-native-zip-archive:compileReleaseJavaWithJavac
+ 
+UP-TO-DATE
+:react-native-zip-archive:processReleaseJavaRes NO-SOURCE
+:react-native-zip-archive:transformClassesAndResourcesWithPrepareIntermediateJarsForRelease UP-TO-DATE
+:rn-fetch-blob:generateReleaseBuildConfig UP-TO-DATE
+:rn-fetch-blob:prepareLintJar UP-TO-DATE
+:rn-fetch-blob:generateReleaseSources UP-TO-DATE
+:rn-fetch-blob:javaPreCompileRelease UP-TO-DATE
+
+:rn-fetch-blob:compileReleaseJavaWithJavac
+ UP-TO-DATE
+
+
+:rn-fetch-blob:processReleaseJavaRes NO-SOURCE
+:rn-fetch-blob:transformClassesAndResourcesWithPrepareIntermediateJarsForRelease
+ UP-TO-DATE
+:app:javaPreCompileRelease
+ UP-TO-DATE
+:app:compileReleaseJavaWithJavac
+ 
+UP-TO-DATE
+
+:app:compileReleaseNdk NO-SOURCE
+:app:compileReleaseSources UP-TO-DATE
+:app:transformClassesWithDexBuilderForRelease
+ UP-TO-DATE
+
+:app:transformDexArchiveWithExternalLibsDexMergerForRelease
+ UP-TO-DATE
+
+:app:transformDexArchiveWithDexMergerForRelease
+ UP-TO-DATE
+
+:app:mergeReleaseJniLibFolders UP-TO-DATE
+:openalib:compileReleaseNdk NO-SOURCE
+:openalib:mergeReleaseJniLibFolders UP-TO-DATE
+:openalib:transformNativeLibsWithMergeJniLibsForRelease UP-TO-DATE
+:openalib:transformNativeLibsWithStripDebugSymbolForRelease UP-TO-DATE
+:openalib:transformNativeLibsWithIntermediateJniLibsForRelease 
+UP-TO-DATE
+
+:react-native-camera:compileReleaseNdk
+ NO-SOURCE
+:react-native-camera:mergeReleaseJniLibFolders UP-TO-DATE
+:react-native-camera:transformNativeLibsWithMergeJniLibsForRelease 
+UP-TO-DATE
+:react-native-camera:transformNativeLibsWithStripDebugSymbolForRelease UP-TO-DATE
+:react-native-camera:transformNativeLibsWithIntermediateJniLibsForRelease UP-TO-DATE
+:react-native-device-info:compileReleaseNdk
+ NO-SOURCE
+:react-native-device-info:mergeReleaseJniLibFolders UP-TO-DATE
+:react-native-device-info:transformNativeLibsWithMergeJniLibsForRelease UP-TO-DATE
+
+:react-native-device-info:transformNativeLibsWithStripDebugSymbolForRelease
+ UP-TO-DATE
+
+:react-native-device-info:transformNativeLibsWithIntermediateJniLibsForRelease UP-TO-DATE
+:react-native-fs:compileReleaseNdk NO-SOURCE
+:react-native-fs:mergeReleaseJniLibFolders UP-TO-DATE
+:react-native-fs:transformNativeLibsWithMergeJniLibsForRelease UP-TO-DATE
+:react-native-fs:transformNativeLibsWithStripDebugSymbolForRelease UP-TO-DATE
+:react-native-fs:transformNativeLibsWithIntermediateJniLibsForRelease
+ UP-TO-DATE
+:react-native-gesture-handler:compileReleaseNdk NO-SOURCE
+:react-native-gesture-handler:mergeReleaseJniLibFolders UP-TO-DATE
+
+:react-native-gesture-handler:transformNativeLibsWithMergeJniLibsForRelease
+ UP-TO-DATE
+
+:react-native-gesture-handler:transformNativeLibsWithStripDebugSymbolForRelease UP-TO-DATE
+:react-native-gesture-handler:transformNativeLibsWithIntermediateJniLibsForRelease UP-TO-DATE
+
+:react-native-i18n:compileReleaseNdk
+ NO-SOURCE
+:react-native-i18n:mergeReleaseJniLibFolders UP-TO-DATE
+:react-native-i18n:transformNativeLibsWithMergeJniLibsForRelease UP-TO-DATE
+:react-native-i18n:transformNativeLibsWithStripDebugSymbolForRelease 
+UP-TO-DATE
+:react-native-i18n:transformNativeLibsWithIntermediateJniLibsForRelease UP-TO-DATE
+:react-native-keep-awake:compileReleaseNdk NO-SOURCE
+:react-native-keep-awake:mergeReleaseJniLibFolders
+ UP-TO-DATE
+:react-native-keep-awake:transformNativeLibsWithMergeJniLibsForRelease
+ UP-TO-DATE
+
+:react-native-keep-awake:transformNativeLibsWithStripDebugSymbolForRelease UP-TO-DATE
+:react-native-keep-awake:transformNativeLibsWithIntermediateJniLibsForRelease UP-TO-DATE
+:react-native-linear-gradient:compileReleaseNdk NO-SOURCE
+:react-native-linear-gradient:mergeReleaseJniLibFolders 
+UP-TO-DATE
+:react-native-linear-gradient:transformNativeLibsWithMergeJniLibsForRelease UP-TO-DATE
+:react-native-linear-gradient:transformNativeLibsWithStripDebugSymbolForRelease UP-TO-DATE
+
+
+:react-native-linear-gradient:transformNativeLibsWithIntermediateJniLibsForRelease UP-TO-DATE
+:react-native-linking-settings:compileReleaseNdk
+ NO-SOURCE
+
+:react-native-linking-settings:mergeReleaseJniLibFolders UP-TO-DATE
+:react-native-linking-settings:transformNativeLibsWithMergeJniLibsForRelease UP-TO-DATE
+:react-native-linking-settings:transformNativeLibsWithStripDebugSymbolForRelease UP-TO-DATE
+:react-native-linking-settings:transformNativeLibsWithIntermediateJniLibsForRelease UP-TO-DATE
+:react-native-network-info:compileReleaseNdk
+ NO-SOURCE
+:react-native-network-info:mergeReleaseJniLibFolders UP-TO-DATE
+:react-native-network-info:transformNativeLibsWithMergeJniLibsForRelease UP-TO-DATE
+
+:react-native-network-info:transformNativeLibsWithStripDebugSymbolForRelease UP-TO-DATE
+:react-native-network-info:transformNativeLibsWithIntermediateJniLibsForRelease UP-TO-DATE
+
+:react-native-photo-view:compileReleaseNdk NO-SOURCE
+
+:react-native-photo-view:mergeReleaseJniLibFolders UP-TO-DATE
+:react-native-photo-view:transformNativeLibsWithMergeJniLibsForRelease UP-TO-DATE
+:react-native-photo-view:transformNativeLibsWithStripDebugSymbolForRelease UP-TO-DATE
+:react-native-photo-view:transformNativeLibsWithIntermediateJniLibsForRelease UP-TO-DATE
+:react-native-sqlite-storage:compileReleaseNdk NO-SOURCE
+:react-native-sqlite-storage:mergeReleaseJniLibFolders
+ UP-TO-DATE
+:react-native-sqlite-storage:transformNativeLibsWithMergeJniLibsForRelease UP-TO-DATE
+:react-native-sqlite-storage:transformNativeLibsWithStripDebugSymbolForRelease UP-TO-DATE
+
+:react-native-sqlite-storage:transformNativeLibsWithIntermediateJniLibsForRelease
+ UP-TO-DATE
+:react-native-vector-icons:compileReleaseNdk NO-SOURCE
+:react-native-vector-icons:mergeReleaseJniLibFolders UP-TO-DATE
+:react-native-vector-icons:transformNativeLibsWithMergeJniLibsForRelease UP-TO-DATE
+:react-native-vector-icons:transformNativeLibsWithStripDebugSymbolForRelease
+ UP-TO-DATE
+:react-native-vector-icons:transformNativeLibsWithIntermediateJniLibsForRelease UP-TO-DATE
+:react-native-view-shot:compileReleaseNdk NO-SOURCE
+
+:react-native-view-shot:mergeReleaseJniLibFolders UP-TO-DATE
+:react-native-view-shot:transformNativeLibsWithMergeJniLibsForRelease
+ UP-TO-DATE
+
+:react-native-view-shot:transformNativeLibsWithStripDebugSymbolForRelease UP-TO-DATE
+:react-native-view-shot:transformNativeLibsWithIntermediateJniLibsForRelease UP-TO-DATE
+:react-native-wheel-picker:compileReleaseNdk NO-SOURCE
+:react-native-wheel-picker:mergeReleaseJniLibFolders UP-TO-DATE
+
+:react-native-wheel-picker:transformNativeLibsWithMergeJniLibsForRelease UP-TO-DATE
+:react-native-wheel-picker:transformNativeLibsWithStripDebugSymbolForRelease UP-TO-DATE
+:react-native-wheel-picker:transformNativeLibsWithIntermediateJniLibsForRelease UP-TO-DATE
+:react-native-zip-archive:compileReleaseNdk
+ NO-SOURCE
+:react-native-zip-archive:mergeReleaseJniLibFolders UP-TO-DATE
+:react-native-zip-archive:transformNativeLibsWithMergeJniLibsForRelease
+ UP-TO-DATE
+
+:react-native-zip-archive:transformNativeLibsWithStripDebugSymbolForRelease UP-TO-DATE
+:react-native-zip-archive:transformNativeLibsWithIntermediateJniLibsForRelease UP-TO-DATE
+:rn-fetch-blob:compileReleaseNdk NO-SOURCE
+:rn-fetch-blob:mergeReleaseJniLibFolders UP-TO-DATE
+:rn-fetch-blob:transformNativeLibsWithMergeJniLibsForRelease UP-TO-DATE
+:rn-fetch-blob:transformNativeLibsWithStripDebugSymbolForRelease UP-TO-DATE
+:rn-fetch-blob:transformNativeLibsWithIntermediateJniLibsForRelease UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForRelease
+ UP-TO-DATE
+
+:app:transformNativeLibsWithStripDebugSymbolForRelease
+ 
+UP-TO-DATE
+:app:processReleaseJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForRelease
+ UP-TO-DATE
+
+:app:validateSigningRelease UP-TO-DATE
+:app:packageRelease
+ UP-TO-DATE
+:app:assembleRelease UP-TO-DATE
+:openalib:extractReleaseAnnotations
+ UP-TO-DATE
+
+:openalib:mergeReleaseConsumerProguardFiles UP-TO-DATE
+:openalib:transformResourcesWithMergeJavaResForRelease
+ UP-TO-DATE
+
+:openalib:transformClassesAndResourcesWithSyncLibJarsForRelease
+ UP-TO-DATE
+
+:openalib:transformNativeLibsWithSyncJniLibsForRelease UP-TO-DATE
+:openalib:bundleRelease UP-TO-DATE
+:openalib:compileReleaseSources UP-TO-DATE
+:openalib:mergeReleaseResources
+ UP-TO-DATE
+:openalib:verifyReleaseResources
+ UP-TO-DATE
+:openalib:assembleRelease UP-TO-DATE
+
+:react-native-camera:extractReleaseAnnotations
+ 
+UP-TO-DATE
+:react-native-camera:mergeReleaseConsumerProguardFiles
+ UP-TO-DATE
+
+:react-native-camera:transformResourcesWithMergeJavaResForRelease UP-TO-DATE
+:react-native-camera:transformClassesAndResourcesWithSyncLibJarsForRelease
+ UP-TO-DATE
+
+:react-native-camera:transformNativeLibsWithSyncJniLibsForRelease UP-TO-DATE
+:react-native-camera:bundleRelease
+ UP-TO-DATE
+
+:react-native-camera:compileReleaseSources UP-TO-DATE
+:react-native-camera:mergeReleaseResources
+ UP-TO-DATE
+
+:react-native-camera:verifyReleaseResources UP-TO-DATE
+:react-native-camera:assembleRelease UP-TO-DATE
+:react-native-device-info:extractReleaseAnnotations
+ UP-TO-DATE
+
+:react-native-device-info:mergeReleaseConsumerProguardFiles UP-TO-DATE
+:react-native-device-info:transformResourcesWithMergeJavaResForRelease UP-TO-DATE
+:react-native-device-info:transformClassesAndResourcesWithSyncLibJarsForRelease
+ UP-TO-DATE
+
+:react-native-device-info:transformNativeLibsWithSyncJniLibsForRelease UP-TO-DATE
+:react-native-device-info:bundleRelease
+ UP-TO-DATE
+:react-native-device-info:compileReleaseSources UP-TO-DATE
+
+:react-native-device-info:mergeReleaseResources
+ UP-TO-DATE
+:react-native-device-info:verifyReleaseResources UP-TO-DATE
+:react-native-device-info:assembleRelease UP-TO-DATE
+
+:react-native-fs:extractReleaseAnnotations
+ UP-TO-DATE
+
+:react-native-fs:mergeReleaseConsumerProguardFiles UP-TO-DATE
+:react-native-fs:transformResourcesWithMergeJavaResForRelease
+ UP-TO-DATE
+
+:react-native-fs:transformClassesAndResourcesWithSyncLibJarsForRelease
+ UP-TO-DATE
+
+:react-native-fs:transformNativeLibsWithSyncJniLibsForRelease UP-TO-DATE
+:react-native-fs:bundleRelease UP-TO-DATE
+:react-native-fs:compileReleaseSources UP-TO-DATE
+:react-native-fs:mergeReleaseResources
+ UP-TO-DATE
+
+:react-native-fs:verifyReleaseResources UP-TO-DATE
+:react-native-fs:assembleRelease UP-TO-DATE
+:react-native-gesture-handler:extractReleaseAnnotations
+ UP-TO-DATE
+
+:react-native-gesture-handler:mergeReleaseConsumerProguardFiles UP-TO-DATE
+:react-native-gesture-handler:transformResourcesWithMergeJavaResForRelease UP-TO-DATE
+:react-native-gesture-handler:transformClassesAndResourcesWithSyncLibJarsForRelease
+ UP-TO-DATE
+
+:react-native-gesture-handler:transformNativeLibsWithSyncJniLibsForRelease UP-TO-DATE
+:react-native-gesture-handler:bundleRelease UP-TO-DATE
+:react-native-gesture-handler:compileReleaseSources UP-TO-DATE
+:react-native-gesture-handler:mergeReleaseResources UP-TO-DATE
+
+:react-native-gesture-handler:verifyReleaseResources UP-TO-DATE
+:react-native-gesture-handler:assembleRelease UP-TO-DATE
+:react-native-i18n:extractReleaseAnnotations
+ UP-TO-DATE
+
+:react-native-i18n:mergeReleaseConsumerProguardFiles UP-TO-DATE
+:react-native-i18n:transformResourcesWithMergeJavaResForRelease
+ UP-TO-DATE
+:react-native-i18n:transformClassesAndResourcesWithSyncLibJarsForRelease
+ UP-TO-DATE
+:react-native-i18n:transformNativeLibsWithSyncJniLibsForRelease UP-TO-DATE
+
+:react-native-i18n:bundleRelease
+ UP-TO-DATE
+:react-native-i18n:compileReleaseSources UP-TO-DATE
+:react-native-i18n:mergeReleaseResources
+ UP-TO-DATE
+:react-native-i18n:verifyReleaseResources UP-TO-DATE
+:react-native-i18n:assembleRelease UP-TO-DATE
+:react-native-keep-awake:extractReleaseAnnotations UP-TO-DATE
+
+:react-native-keep-awake:mergeReleaseConsumerProguardFiles UP-TO-DATE
+
+:react-native-keep-awake:transformResourcesWithMergeJavaResForRelease
+ UP-TO-DATE
+:react-native-keep-awake:transformClassesAndResourcesWithSyncLibJarsForRelease UP-TO-DATE
+:react-native-keep-awake:transformNativeLibsWithSyncJniLibsForRelease UP-TO-DATE
+:react-native-keep-awake:bundleRelease
+ UP-TO-DATE
+
+:react-native-keep-awake:compileReleaseSources
+ UP-TO-DATE
+:react-native-keep-awake:mergeReleaseResources
+ 
+UP-TO-DATE
+:react-native-keep-awake:verifyReleaseResources UP-TO-DATE
+:react-native-keep-awake:assembleRelease UP-TO-DATE
+:react-native-linear-gradient:extractReleaseAnnotations
+ UP-TO-DATE
+:react-native-linear-gradient:mergeReleaseConsumerProguardFiles 
+UP-TO-DATE
+:react-native-linear-gradient:transformResourcesWithMergeJavaResForRelease
+ UP-TO-DATE
+:react-native-linear-gradient:transformClassesAndResourcesWithSyncLibJarsForRelease 
+UP-TO-DATE
+:react-native-linear-gradient:transformNativeLibsWithSyncJniLibsForRelease UP-TO-DATE
+:react-native-linear-gradient:bundleRelease
+ UP-TO-DATE
+
+:react-native-linear-gradient:compileReleaseSources UP-TO-DATE
+:react-native-linear-gradient:mergeReleaseResources
+ 
+UP-TO-DATE
+
+:react-native-linear-gradient:verifyReleaseResources UP-TO-DATE
+:react-native-linear-gradient:assembleRelease UP-TO-DATE
+:react-native-linking-settings:extractReleaseAnnotations
+ UP-TO-DATE
+:react-native-linking-settings:mergeReleaseConsumerProguardFiles
+ UP-TO-DATE
+
+:react-native-linking-settings:transformResourcesWithMergeJavaResForRelease
+ UP-TO-DATE
+:react-native-linking-settings:transformClassesAndResourcesWithSyncLibJarsForRelease
+ UP-TO-DATE
+
+:react-native-linking-settings:transformNativeLibsWithSyncJniLibsForRelease UP-TO-DATE
+:react-native-linking-settings:bundleRelease UP-TO-DATE
+:react-native-linking-settings:compileReleaseSources 
+UP-TO-DATE
+:react-native-linking-settings:mergeReleaseResources
+ UP-TO-DATE
+
+:react-native-linking-settings:verifyReleaseResources UP-TO-DATE
+:react-native-linking-settings:assembleRelease UP-TO-DATE
+:react-native-network-info:extractReleaseAnnotations
+ UP-TO-DATE
+
+:react-native-network-info:mergeReleaseConsumerProguardFiles
+ UP-TO-DATE
+:react-native-network-info:transformResourcesWithMergeJavaResForRelease UP-TO-DATE
+:react-native-network-info:transformClassesAndResourcesWithSyncLibJarsForRelease UP-TO-DATE
+:react-native-network-info:transformNativeLibsWithSyncJniLibsForRelease UP-TO-DATE
+:react-native-network-info:bundleRelease
+ 
+UP-TO-DATE
+:react-native-network-info:compileReleaseSources UP-TO-DATE
+:react-native-network-info:mergeReleaseResources
+ UP-TO-DATE
+
+:react-native-network-info:verifyReleaseResources UP-TO-DATE
+:react-native-network-info:assembleRelease UP-TO-DATE
+:react-native-photo-view:extractReleaseAnnotations
+ UP-TO-DATE
+
+:react-native-photo-view:mergeReleaseConsumerProguardFiles UP-TO-DATE
+:react-native-photo-view:transformResourcesWithMergeJavaResForRelease UP-TO-DATE
+
+:react-native-photo-view:transformClassesAndResourcesWithSyncLibJarsForRelease
+ UP-TO-DATE
+
+:react-native-photo-view:transformNativeLibsWithSyncJniLibsForRelease UP-TO-DATE
+:react-native-photo-view:bundleRelease
+ 
+UP-TO-DATE
+:react-native-photo-view:compileReleaseSources UP-TO-DATE
+:react-native-photo-view:mergeReleaseResources
+ UP-TO-DATE
+
+:react-native-photo-view:verifyReleaseResources
+ UP-TO-DATE
+:react-native-photo-view:assembleRelease UP-TO-DATE
+:react-native-sqlite-storage:extractReleaseAnnotations UP-TO-DATE
+:react-native-sqlite-storage:mergeReleaseConsumerProguardFiles UP-TO-DATE
+:react-native-sqlite-storage:transformResourcesWithMergeJavaResForRelease
+ 
+UP-TO-DATE
+:react-native-sqlite-storage:transformClassesAndResourcesWithSyncLibJarsForRelease UP-TO-DATE
+
+:react-native-sqlite-storage:transformNativeLibsWithSyncJniLibsForRelease UP-TO-DATE
+:react-native-sqlite-storage:bundleRelease UP-TO-DATE
+:react-native-sqlite-storage:compileReleaseSources UP-TO-DATE
+:react-native-sqlite-storage:mergeReleaseResources
+ UP-TO-DATE
+
+:react-native-sqlite-storage:verifyReleaseResources UP-TO-DATE
+
+:react-native-sqlite-storage:assembleRelease
+ UP-TO-DATE
+:react-native-tcp:preBuild UP-TO-DATE
+:react-native-tcp:preReleaseBuild UP-TO-DATE
+
+:react-native-tcp:compileReleaseAidl
+ UP-TO-DATE
+
+:react-native-tcp:compileReleaseRenderscript
+ 
+UP-TO-DATE
+:react-native-tcp:checkReleaseManifest 
+UP-TO-DATE
+:react-native-tcp:generateReleaseBuildConfig UP-TO-DATE
+:react-native-tcp:generateReleaseResValues UP-TO-DATE
+
+:react-native-tcp:generateReleaseResources UP-TO-DATE
+
+:react-native-tcp:packageReleaseResources UP-TO-DATE
+
+:react-native-tcp:platformAttrExtractor UP-TO-DATE
+:react-native-tcp:processReleaseManifest UP-TO-DATE
+:react-native-tcp:generateReleaseRFile
+ UP-TO-DATE
+:react-native-tcp:prepareLintJar UP-TO-DATE
+:react-native-tcp:generateReleaseSources UP-TO-DATE
+:react-native-tcp:javaPreCompileRelease UP-TO-DATE
+:react-native-tcp:compileReleaseJavaWithJavac
+ UP-TO-DATE
+
+:react-native-tcp:extractReleaseAnnotations
+ UP-TO-DATE
+
+:react-native-tcp:mergeReleaseConsumerProguardFiles UP-TO-DATE
+:react-native-tcp:mergeReleaseShaders UP-TO-DATE
+:react-native-tcp:compileReleaseShaders UP-TO-DATE
+:react-native-tcp:generateReleaseAssets UP-TO-DATE
+:react-native-tcp:packageReleaseAssets UP-TO-DATE
+
+:react-native-tcp:packageReleaseRenderscript NO-SOURCE
+:react-native-tcp:processReleaseJavaRes NO-SOURCE
+:react-native-tcp:transformResourcesWithMergeJavaResForRelease
+ UP-TO-DATE
+
+:react-native-tcp:transformClassesAndResourcesWithSyncLibJarsForRelease UP-TO-DATE
+:react-native-tcp:compileReleaseNdk NO-SOURCE
+
+:react-native-tcp:mergeReleaseJniLibFolders
+ UP-TO-DATE
+:react-native-tcp:transformNativeLibsWithMergeJniLibsForRelease UP-TO-DATE
+:react-native-tcp:transformNativeLibsWithStripDebugSymbolForRelease UP-TO-DATE
+:react-native-tcp:transformNativeLibsWithSyncJniLibsForRelease UP-TO-DATE
+:react-native-tcp:bundleRelease UP-TO-DATE
+:react-native-tcp:compileReleaseSources UP-TO-DATE
+
+:react-native-tcp:mergeReleaseResources
+ UP-TO-DATE
+
+:react-native-tcp:verifyReleaseResources UP-TO-DATE
+:react-native-tcp:assembleRelease UP-TO-DATE
+:react-native-udp:preBuild UP-TO-DATE
+:react-native-udp:preReleaseBuild UP-TO-DATE
+:react-native-udp:compileReleaseAidl
+ 
+UP-TO-DATE
+:react-native-udp:compileReleaseRenderscript UP-TO-DATE
+:react-native-udp:checkReleaseManifest UP-TO-DATE
+:react-native-udp:generateReleaseBuildConfig UP-TO-DATE
+
+:react-native-udp:generateReleaseResValues 
+UP-TO-DATE
+:react-native-udp:generateReleaseResources UP-TO-DATE
+:react-native-udp:packageReleaseResources UP-TO-DATE
+:react-native-udp:platformAttrExtractor UP-TO-DATE
+:react-native-udp:processReleaseManifest UP-TO-DATE
+:react-native-udp:generateReleaseRFile
+ UP-TO-DATE
+
+:react-native-udp:prepareLintJar UP-TO-DATE
+:react-native-udp:generateReleaseSources UP-TO-DATE
+:react-native-udp:javaPreCompileRelease
+ UP-TO-DATE
+:react-native-udp:compileReleaseJavaWithJavac 
+UP-TO-DATE
+
+:react-native-udp:extractReleaseAnnotations
+ UP-TO-DATE
+
+:react-native-udp:mergeReleaseConsumerProguardFiles UP-TO-DATE
+:react-native-udp:mergeReleaseShaders UP-TO-DATE
+
+:react-native-udp:compileReleaseShaders
+ 
+UP-TO-DATE
+:react-native-udp:generateReleaseAssets UP-TO-DATE
+
+:react-native-udp:packageReleaseAssets UP-TO-DATE
+:react-native-udp:packageReleaseRenderscript NO-SOURCE
+:react-native-udp:processReleaseJavaRes NO-SOURCE
+
+:react-native-udp:transformResourcesWithMergeJavaResForRelease UP-TO-DATE
+:react-native-udp:transformClassesAndResourcesWithSyncLibJarsForRelease
+ UP-TO-DATE
+
+:react-native-udp:compileReleaseNdk NO-SOURCE
+:react-native-udp:mergeReleaseJniLibFolders UP-TO-DATE
+:react-native-udp:transformNativeLibsWithMergeJniLibsForRelease UP-TO-DATE
+:react-native-udp:transformNativeLibsWithStripDebugSymbolForRelease UP-TO-DATE
+
+:react-native-udp:transformNativeLibsWithSyncJniLibsForRelease UP-TO-DATE
+:react-native-udp:bundleRelease
+ UP-TO-DATE
+:react-native-udp:compileReleaseSources UP-TO-DATE
+:react-native-udp:mergeReleaseResources
+ 
+UP-TO-DATE
+
+:react-native-udp:verifyReleaseResources UP-TO-DATE
+:react-native-udp:assembleRelease
+ UP-TO-DATE
+:react-native-vector-icons:extractReleaseAnnotations
+ 
+UP-TO-DATE
+:react-native-vector-icons:mergeReleaseConsumerProguardFiles UP-TO-DATE
+:react-native-vector-icons:transformResourcesWithMergeJavaResForRelease
+ UP-TO-DATE
+
+:react-native-vector-icons:transformClassesAndResourcesWithSyncLibJarsForRelease UP-TO-DATE
+
+:react-native-vector-icons:transformNativeLibsWithSyncJniLibsForRelease
+ UP-TO-DATE
+:react-native-vector-icons:bundleRelease UP-TO-DATE
+:react-native-vector-icons:compileReleaseSources UP-TO-DATE
+:react-native-vector-icons:mergeReleaseResources
+ 
+UP-TO-DATE
+:react-native-vector-icons:verifyReleaseResources
+ UP-TO-DATE
+
+:react-native-vector-icons:assembleRelease UP-TO-DATE
+:react-native-view-shot:extractReleaseAnnotations
+ UP-TO-DATE
+
+:react-native-view-shot:mergeReleaseConsumerProguardFiles UP-TO-DATE
+:react-native-view-shot:transformResourcesWithMergeJavaResForRelease
+ UP-TO-DATE
+
+:react-native-view-shot:transformClassesAndResourcesWithSyncLibJarsForRelease
+ UP-TO-DATE
+
+:react-native-view-shot:transformNativeLibsWithSyncJniLibsForRelease UP-TO-DATE
+:react-native-view-shot:bundleRelease UP-TO-DATE
+:react-native-view-shot:compileReleaseSources UP-TO-DATE
+:react-native-view-shot:mergeReleaseResources
+ UP-TO-DATE
+
+:react-native-view-shot:verifyReleaseResources UP-TO-DATE
+:react-native-view-shot:assembleRelease UP-TO-DATE
+:react-native-wheel-picker:extractReleaseAnnotations
+ UP-TO-DATE
+
+:react-native-wheel-picker:mergeReleaseConsumerProguardFiles UP-TO-DATE
+:react-native-wheel-picker:transformResourcesWithMergeJavaResForRelease UP-TO-DATE
+:react-native-wheel-picker:transformClassesAndResourcesWithSyncLibJarsForRelease
+ 
+UP-TO-DATE
+:react-native-wheel-picker:transformNativeLibsWithSyncJniLibsForRelease UP-TO-DATE
+:react-native-wheel-picker:bundleRelease UP-TO-DATE
+:react-native-wheel-picker:compileReleaseSources UP-TO-DATE
+:react-native-wheel-picker:mergeReleaseResources
+ UP-TO-DATE
+
+:react-native-wheel-picker:verifyReleaseResources UP-TO-DATE
+:react-native-wheel-picker:assembleRelease UP-TO-DATE
+:react-native-zip-archive:extractReleaseAnnotations
+ UP-TO-DATE
+
+:react-native-zip-archive:mergeReleaseConsumerProguardFiles UP-TO-DATE
+:react-native-zip-archive:transformResourcesWithMergeJavaResForRelease
+ UP-TO-DATE
+
+:react-native-zip-archive:transformClassesAndResourcesWithSyncLibJarsForRelease UP-TO-DATE
+:react-native-zip-archive:transformNativeLibsWithSyncJniLibsForRelease UP-TO-DATE
+:react-native-zip-archive:bundleRelease
+ UP-TO-DATE
+
+:react-native-zip-archive:compileReleaseSources UP-TO-DATE
+:react-native-zip-archive:mergeReleaseResources
+ UP-TO-DATE
+
+:react-native-zip-archive:verifyReleaseResources UP-TO-DATE
+
+:react-native-zip-archive:assembleRelease UP-TO-DATE
+:rn-fetch-blob:extractReleaseAnnotations UP-TO-DATE
+:rn-fetch-blob:mergeReleaseConsumerProguardFiles UP-TO-DATE
+
+:rn-fetch-blob:transformResourcesWithMergeJavaResForRelease
+ UP-TO-DATE
+
+:rn-fetch-blob:transformClassesAndResourcesWithSyncLibJarsForRelease
+ UP-TO-DATE
+
+:rn-fetch-blob:transformNativeLibsWithSyncJniLibsForRelease UP-TO-DATE
+:rn-fetch-blob:bundleRelease
+ 
+UP-TO-DATE
+:rn-fetch-blob:compileReleaseSources UP-TO-DATE
+:rn-fetch-blob:mergeReleaseResources
+ UP-TO-DATE
+
+:rn-fetch-blob:verifyReleaseResources UP-TO-DATE
+:rn-fetch-blob:assembleRelease
+ UP-TO-DATE
+
+
+BUILD SUCCESSFUL in 1m 40s
+556 actionable tasks: 1 executed, 555 up-to-date
+
+
