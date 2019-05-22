@@ -4,7 +4,7 @@ var secretKey = "-_7t5uLMP000XQwSx1cJiBLEMGaqYxxEvY0MS3yz";
 var mac = new qiniu.auth.digest.Mac(accessKey, secretKey);
 var bucket = "lww_test";
 var options = {
-    scope: bucket
+  scope: bucket
 };
 var putPolicy = new qiniu.rs.PutPolicy(options);
 var uploadToken = putPolicy.uploadToken(mac);
@@ -17,25 +17,29 @@ var bucketManager = new qiniu.rs.BucketManager(mac, config);
 var publicBucketDomain = "http://build-download.nostackdeveloper.com";
 
 
-module.exports = function uploadToCloud(key,localFile,needlink) {
-    formUploader.putFile(
-        uploadToken,
-        key,
-        localFile,
-        putExtra,
-        function (respErr, respBody, respInfo) {
-            if (respErr) {
-                throw respErr;
-            }
-            if (respInfo.statusCode == 200) {
-                if(needlink){
-                    var publicDownloadUrl = bucketManager.publicDownloadUrl(publicBucketDomain, respBody.key);
-                    console.log("apk上传七牛完毕，下载链接如下" + publicDownloadUrl)
-                    global._ws.send("apk上传七牛完毕，下载链接如下" + publicDownloadUrl)
-                }
-            }else {
-                console.log('----->',respInfo.statusCode);
-                console.log(respBody);
-            }
-        });
+module.exports = function uploadToCloud(key, localFile, needlink) {
+  formUploader.putFile(
+    uploadToken,
+    key,
+    localFile,
+    putExtra,
+    function (respErr, respBody, respInfo) {
+      if (respErr) {
+        console.log(`Android 打包失败, Error: ${respErr}`)
+        global._ws.send(`Android 打包失败, Error: ${respErr}`)
+      }
+      if (respInfo.statusCode == 200) {
+        console.log("打包完成，开始上传")
+        global._ws.send("打包完成，开始上传")
+        if (needlink) {
+          var publicDownloadUrl = bucketManager.publicDownloadUrl(publicBucketDomain, respBody.key);
+          console.log("apk上传七牛完毕，下载链接如下" + publicDownloadUrl)
+          global._ws.send(`apk上传完毕，下载链接如下:${publicDownloadUrl} \r\n\r\n\r\n\r\n`)
+          global._ws.send("Finished~")
+        }
+      } else {
+        console.log('----->', respInfo.statusCode);
+        console.log(respBody);
+      }
+    });
 }
