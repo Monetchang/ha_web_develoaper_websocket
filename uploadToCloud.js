@@ -34,8 +34,8 @@ module.exports = function uploadToCloud(key, localFile, needlink) {
         if (needlink) {
           var publicDownloadUrl = bucketManager.publicDownloadUrl(publicBucketDomain, respBody.key);
           console.log("apk上传七牛完毕，下载链接如下" + publicDownloadUrl)
-          global._ws.send(`apk上传完毕，下载链接如下:${publicDownloadUrl} \r\n\r\n\r\n\r\n`)
-          global._ws.send("Finished~")
+          global._ws.send(`apk上传完毕，Download URL: ${publicDownloadUrl}`)
+          global._ws.send("Finished~~")
         }
       } else {
         console.log('----->', respInfo.statusCode);
