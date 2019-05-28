@@ -5,15 +5,18 @@ const WebSocket = require("ws")
 const {exec} = require("child_process")
 const logSymbols = require("log-symbols")
 const utils = require("./utils")
+const config = require("./config")
 
-const ws = new WebSocket("ws://localhost:8088")
-
-const applicationProject = "../Business-Template-APP/android"
+const applicationProject = `${config.projectPath}/android`
 const logStorageFile = "./log"
-const switchEnvironmentPath = "../Business-Template-APP/tool/environment/package"
-const androidReleaseAPK = "../Business-Template-APP/android/app/build/outputs/apk/release/app-release.apk"
+const switchEnvironmentPath = `${config.projectPath}/tool/environment/package`
+const androidReleaseAPK = `${config.projectPath}/android/app/build/outputs/apk/release/app-release.apk`
 
-const androidPackageInstruct = " cd " + applicationProject + " && npm run android-release"
+// Create folder
+utils.createFolderBone()
+
+const androidPackageInstruct = `cd ${applicationProject} && npm run android-release`
+const ws = new WebSocket(`${config.websocket.protocol}://${config.websocket.host}:${config.websocket.port}`)
 global._ws = ws
 
 ws.onmessage = function (event) {
@@ -30,7 +33,6 @@ ws.onmessage = function (event) {
     global.copyFileStart = 0
     global.copyFileEnd = 0
 
-
     // Init
     ws.send("Start package...")
     ws.send("Configuration data was successfully fetched...")
@@ -41,17 +43,11 @@ ws.onmessage = function (event) {
     ws.send("Init tool successfully...")
     ws.send("Application name image init start...")
 
-    // Create folder
-    utils.createFolderBone()
-
-
     // Conversion word
     utils.conversionApplicationNameToLaunchScreen(applicationConfig.app.name)
 
-
     // Copy xcode content.json
     utils.copyXcodeContentJson()
-
 
     // Download
     ws.send("Start application logo && splash screen download...")
@@ -87,7 +83,7 @@ ws.onmessage = function (event) {
         console.log(switchEnvironment)
         ws.send("Switch environment...")
         execShell(switchEnvironment, "process")
-        execShell(androidPackageInstruct, "package")
+        execShell(androidPackageInstruct, "package") // TODO: 取消此注释
       }
     }, 1000)
   }

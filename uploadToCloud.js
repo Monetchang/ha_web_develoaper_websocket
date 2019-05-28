@@ -1,23 +1,23 @@
 var qiniu = require("qiniu");
 var accessKey = "CCiqyycPWKDiaUSSTtElR8lh6aJZttRXrXknwe9B";
 var secretKey = "-_7t5uLMP000XQwSx1cJiBLEMGaqYxxEvY0MS3yz";
-var mac = new qiniu.auth.digest.Mac(accessKey, secretKey);
-var bucket = "lww_test";
-var options = {
-  scope: bucket
-};
-var putPolicy = new qiniu.rs.PutPolicy(options);
-var uploadToken = putPolicy.uploadToken(mac);
-
-var config = new qiniu.conf.Config();
-config.zone = qiniu.zone.Zone_z0;
-var formUploader = new qiniu.form_up.FormUploader(config);
-var putExtra = new qiniu.form_up.PutExtra();
-var bucketManager = new qiniu.rs.BucketManager(mac, config);
-var publicBucketDomain = "http://build-download.nostackdeveloper.com";
 
 
 module.exports = function uploadToCloud(key, localFile, needlink) {
+  var mac = new qiniu.auth.digest.Mac(accessKey, secretKey);
+  var bucket = "lww_test";
+  var options = {
+    scope: bucket
+  };
+  var putPolicy = new qiniu.rs.PutPolicy(options);
+  var uploadToken = putPolicy.uploadToken(mac);
+
+  var config = new qiniu.conf.Config();
+  config.zone = qiniu.zone.Zone_z0;
+  var formUploader = new qiniu.form_up.FormUploader(config);
+  var putExtra = new qiniu.form_up.PutExtra();
+  var bucketManager = new qiniu.rs.BucketManager(mac, config);
+  var publicBucketDomain = "http://build-download.nostackdeveloper.com";
   formUploader.putFile(
     uploadToken,
     key,
