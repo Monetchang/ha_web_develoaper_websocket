@@ -13,9 +13,10 @@ const tools = {}
 tools.isDir = (dir) => {
   if (fs.existsSync(dir)) {
     console.log(`${dir} is exist`)
-    global._ws.send(`${dir} is exist`)
+    global._ws && global._ws.send(`${dir} is exist`)
   } else {
-    global._ws.send(`Create ${dir}`)
+    console.log(`${dir} is not exist`)
+    global._ws && global._ws.send(`Create ${dir}`)
     fs.mkdirSync(dir)
   }
 }

@@ -10,4 +10,15 @@ config.websocket = {
     port: "8088",
 }
 
+// API 服务器配置
+config.APIServer = {
+    protocol: "http",
+    host: "localhost",
+    port: "3001",
+    keys: {
+        accessKey: "",
+        secretKey: "",
+    }
+}
+
 module.exports = config

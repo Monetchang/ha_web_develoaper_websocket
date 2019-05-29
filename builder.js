@@ -16,14 +16,16 @@ const androidReleaseAPK = `${config.projectPath}/android/app/build/outputs/apk/r
 utils.createFolderBone()
 
 const androidPackageInstruct = `cd ${applicationProject} && npm run android-release`
-const ws = new WebSocket(`${config.websocket.protocol}://${config.websocket.host}:${config.websocket.port}`)
+// const ws = new WebSocket(`${config.websocket.protocol}://${config.websocket.host}:${config.websocket.port}`)
+// global._ws = ws
+const ws = {
+    send: (content) => {
+        console.log('ws', content)
+    },
+}
 global._ws = ws
 
-ws.onmessage = function (event) {
-  const data = JSON.parse(event.data)
-
-  if (data.type === "websocket_client") {
-
+const build = (data) => {
     // Declare variable
     global.downloadPngNumber = 3
     global.zoomFiles = 0
@@ -36,10 +38,7 @@ ws.onmessage = function (event) {
     // Init
     ws.send("Start package...")
     ws.send("Configuration data was successfully fetched...")
-    console.log("@@@data", data)
-    const applicationData = JSON.parse(data.config)
-    const applicationConfigList = JSON.parse(applicationData.config)
-    const applicationConfig = applicationConfigList[applicationData.key]
+    const applicationConfig = data
     console.log("config: ", applicationConfig)
     ws.send("Init tool successfully...")
     ws.send("Application name image init start...")
@@ -87,11 +86,6 @@ ws.onmessage = function (event) {
         execShell(androidPackageInstruct, "package") // TODO: 取消此注释
       }
     }, 1000)
-  }
-}
-
-ws.onopen = function () {
-  console.log('connect success~')
 }
 
 
@@ -138,3 +132,5 @@ const execShell = (line, type) => {
   //
   // })
 }
+
+module.exports = build

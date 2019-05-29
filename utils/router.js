@@ -5,6 +5,7 @@ const router = {}
 const pathArray = path.join(__dirname).split("/")
 pathArray.splice(5, 2)
 const basicRoute = pathArray.join("/")
+const config = require("../config")
 
 router.originPath = path.join(__dirname, "origin/")
 router.outputPath = path.join(__dirname, "output/")
@@ -36,16 +37,16 @@ router.reactnativeOutputPath = path.join(router.logoOutputPath, "reactnative")
 router.reactnativeBackgroundOutputPath = path.join(router.outputPath, "background")
 
 // iOS Target Path
-router.iOSLogoTargrtPath = path.join( basicRoute, "/Business-Template-APP/ios/LaunchImages")
-router.iOSXcodeLogoTargrtPath = path.join( basicRoute, "/Business-Template-APP/ios/DvaStarter/Images.xcassets/AppIcon.appiconset")
+router.iOSLogoTargrtPath = path.join( config.projectPath, "/ios/LaunchImages")
+router.iOSXcodeLogoTargrtPath = path.join( config.projectPath, "/ios/DvaStarter/Images.xcassets/AppIcon.appiconset")
 
 // Android Target Path
-router.androidLogoTargetPath = path.join( basicRoute, "/Business-Template-APP/android/app/src/main/res")
+router.androidLogoTargetPath = path.join( config.projectPath, "/android/app/src/main/res")
 
 // React Native Target Path
-router.reactNativeLogoTargetPath = path.join( basicRoute, "/Business-Template-APP/app/images/pure/login_icon")
-router.reactNativeBackgroundTargetPath = path.join( basicRoute, "/Business-Template-APP/app/images/pure/main_background")
-router.reactNativeSecurityImageTargetPath = path.join( basicRoute, "/Business-Template-APP/security_image/production/")
+router.reactNativeLogoTargetPath = path.join( config.projectPath, "/app/images/pure/login_icon")
+router.reactNativeBackgroundTargetPath = path.join( config.projectPath, "/app/images/pure/main_background")
+router.reactNativeSecurityImageTargetPath = path.join( config.projectPath, "/security_image/production/")
 
 
 module.exports = router
