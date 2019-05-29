@@ -33,6 +33,10 @@ object.copyToTargetDir = (type, bundleId) => {
  */
 object.createFolderBone = () => {
   tools.isDir(path.join(__dirname, "../log"))
+  Object.keys(router).map(key => {
+    tools.isDir(router[key])
+  })
+  
   
   tools.isDir(router.imagesOriginPath)
   tools.isDir(router.zipOriginPath)

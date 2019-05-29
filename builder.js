@@ -6,6 +6,7 @@ const {exec} = require("child_process")
 const logSymbols = require("log-symbols")
 const utils = require("./utils")
 const config = require("./config")
+const notificationManager = require('./notificationManager')
 
 const applicationProject = `${config.projectPath}/android`
 const logStorageFile = "./log"
@@ -121,6 +122,12 @@ const execShell = (line, type) => {
           const dialogLocalFile = logStorageFile + '/' + "app-release-" + timestamp + ".txt"
           uploadToCloud(key, androidReleaseAPK, true)
           uploadToCloud(dialogKey, dialogLocalFile, false)
+          notificationManager.post(notificationManager.type.buildStatusChange, {
+            status: 'finish',
+            files: {
+              android: dialogLocalFile,
+            },
+          })
         }
       })
     }

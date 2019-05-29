@@ -40,12 +40,23 @@ const postNotification = (message) => {
 }
 
 // 监听消息变化
-const onNotification = (message) => {
-    console.log('taskManager onNotification()', message)
-    if (message === 'building') {
-        flag.building = true
-    } else {
-        flag.building = false
+const onNotification = async (data) => {
+    console.log('taskManager onNotification()', data)
+    switch (data.status) {
+        case 'finish':
+            // TODO: 增加下载文件地址存储
+            const result = await network._.post("/v1/buildTask/finish", {
+                ...config.APIServer.keys,
+                id: data.id,
+            })
+            console.log('request finish api', result)
+            flag.building = false
+            break
+        case 'building':
+            flag.building = true
+            break
+        default:
+            break
     }
 }
 notificationManager.listen(notificationType.buildStatusChange, onNotification)
@@ -56,7 +67,10 @@ main = async () => {
         return
     }
 
-    const {error,data} = await requestTaskList()
+    const {
+        error,
+        data
+    } = await requestTaskList()
     const taskList = data
     console.log('taskList', taskList)
     if (taskList.length > 0) {

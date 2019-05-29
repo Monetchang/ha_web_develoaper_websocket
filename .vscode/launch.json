@@ -14,7 +14,8 @@
             "type": "node",
             "request": "launch",
             "name": "Build Worker",
-            "program": "${workspaceFolder}/run.js"
+            "program": "${workspaceFolder}/run.js",
+            "runtimeVersion": "10.14.0"
         }
     ]
 }

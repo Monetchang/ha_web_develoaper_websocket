@@ -9,8 +9,14 @@ const builder = require("./builder")
 // 运行编译
 const runBuild = data => {
     console.log('buildManager runBuild(data)', data)
-    notificationManager.post(notificationType.buildStatusChange, "building")
-    builder(data.task.value)
+    notificationManager.post(notificationType.buildStatusChange, {
+        status: "building",
+    })
+    // builder(data.task.value)
+    notificationManager.post(notificationType.buildStatusChange, {
+        status: "finish",
+        id: data.task.id,
+    })
 }
 
 // 监听云端指令
