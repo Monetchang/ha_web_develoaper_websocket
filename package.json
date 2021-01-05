@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "canvas": "^2.5.0",
     "colors-cli": "^1.0.21",
     "extract-zip": "^1.6.7",
